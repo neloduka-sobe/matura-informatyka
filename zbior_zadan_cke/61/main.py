@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # 15.02.2022 by neloduka_sobe
 import math
-from collections import Counter
 
 ciagi = []
 with open('dane/ciagi.txt', 'r') as f:
