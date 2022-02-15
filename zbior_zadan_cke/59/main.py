@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# 15.02.2022 by neloduka_sobe
 
 # Wczytywanie danych
 liczby = []
