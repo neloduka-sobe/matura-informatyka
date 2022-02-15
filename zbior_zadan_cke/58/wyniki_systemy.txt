@@ -1,0 +1,10 @@
+Zadanie 58.1:
+Pierwsza stacja: -0b1011
+Druga stacja: -0b1001100
+Trzeci stacja: -0b1001011
+Zadanie 58.2:
+Liczba pomiarów: 182
+Zadanie 58.3:
+Dni rekordowe: 42
+Zadanie 58.4:
+Największy skok: 25
