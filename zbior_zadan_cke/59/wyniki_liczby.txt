@@ -1,0 +1,15 @@
+Zadanie 59.1
+Ilość: 114
+Zadanie 59.2
+Ilość: 181
+Zadanie 59.3
+Ilość liczb o mocy 1: 381
+Ilość liczb o mocy 2: 344
+Ilość liczb o mocy 3: 171
+Ilość liczb o mocy 4: 76
+Ilość liczb o mocy 5: 22
+Ilość liczb o mocy 6: 4
+Ilość liczb o mocy 7: 0
+Ilość liczb o mocy 8: 2
+Max o mocy 1: 999342708
+Min o mocy 1: 11
