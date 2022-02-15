@@ -83,10 +83,7 @@ def skok_temp(i,j,ti, tj):
 
 maks = 0
 for i in range(1, 1096):
-    for j in range(1, 1096):
-        if i == j:
-            continue
-
+    for j in range(i+1, 1096):
         s = skok_temp(i,j,temperatury1[i-1], temperatury1[j-1])
         if  s > maks:
             maks = s
