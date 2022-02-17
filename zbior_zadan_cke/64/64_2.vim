@@ -1,3 +1,4 @@
+" 16.02.2022 by neloduka_sobe
 " wykonanie zadania 64.2 w vimscripcie
 " aby wykonać należy otworzyć ten plik w edytorze vim i wpisać ':so %'
 let plik = readfile("dane/dane_obrazki.txt")
