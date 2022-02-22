@@ -1,0 +1,26 @@
+Zadanie 64.1
+Ilość: 13
+Max: 381
+Zadanie 64.2
+Ostatnia linia pierwszego obrazka rekurencyjnego: 217
+Ilość: 60
+Zadanie 64.3
+Naprawialne: 14
+Poprawne: 171
+Nienaprawialne: 15
+Max błędów: 7
+Zadanie 64.4
+Nr obrazka: 14; Dane: (1, 15, 1)
+Nr obrazka: 19; Dane: (4, 20, 1)
+Nr obrazka: 26; Dane: (21, 13, 1)
+Nr obrazka: 29; Dane: (2, 8, 1)
+Nr obrazka: 33; Dane: (15, 21, 1)
+Nr obrazka: 115; Dane: (21, 14, 0)
+Nr obrazka: 116; Dane: (21, 13, 1)
+Nr obrazka: 129; Dane: (21, 14, 1)
+Nr obrazka: 131; Dane: (10, 7, 1)
+Nr obrazka: 143; Dane: (7, 15, 1)
+Nr obrazka: 154; Dane: (7, 7, 1)
+Nr obrazka: 161; Dane: (21, 17, 1)
+Nr obrazka: 162; Dane: (21, 16, 1)
+Nr obrazka: 187; Dane: (21, 18, 1)

@@ -143,4 +143,4 @@ print(f"Max błędów: {maks}")
 
 print("Zadanie 64.4")
 for i in pp4.keys():
-    print(f"Linia: {i}; Dane: {pp4[i]}")
+    print(f"Nr obrazka: {i}; Dane: {pp4[i]}")

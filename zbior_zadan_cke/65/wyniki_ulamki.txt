@@ -1,0 +1,8 @@
+Zadanie 65.1
+Licznik: 1; Mianownik: 225
+Zadanie 65.2
+Ilość: 410
+Zadanie 65.3
+Suma: 128446.0
+Zadanie 65.4
+Licznik wynosi: 578219135.0
