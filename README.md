@@ -19,9 +19,13 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 - [x] zadanie 64
 	* vimscript: 64.4
 	* python: **do refaktoryzacji**
-- [ ] zadanie 65
-- [ ] zadanie 66
+- [x] zadanie 65
+	* python
+- [x] zadanie 66
+	* python
 - [ ] zadanie 67
+	* python: **pouzupełniać**
+	* arkusz kalkulacyjny: **poprawić, aby nie pokazywał liczby**
 - [ ] zadanie 68
 - [ ] zadanie 69
 - [ ] zadanie 70
