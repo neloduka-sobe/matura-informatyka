@@ -4,7 +4,6 @@ fibo = [1,1]
 for i in range(1,39):
     fibo.append(fibo[i] + fibo[i-1])
 
-'''
 ### 67.1
 print("Zadanie 67.1")
 for i in range(9,40, 10):
@@ -25,15 +24,13 @@ for i in fibo:
     if is_prime(i):
         print(i)
 
-'''
 ### 67.3
-#print("Zadanie 67.3 -> przepipować i do arkusza")
+print("Zadanie 67.3 -> przepipować i do arkusza")
 l = len(bin(fibo[-1])[2:])
 for i in fibo:
     tmp = "0"*(l-len(bin(i)[2:])) + bin(i)[2:]
     print(*list(tmp), sep = ',')
 
-'''
 ### 67.4
 print("Zadanie 67.4")
 for i in fibo:
@@ -42,4 +39,3 @@ for i in fibo:
         print(i)
 
     
-    '''

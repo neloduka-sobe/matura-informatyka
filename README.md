@@ -24,7 +24,7 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 - [x] zadanie 66
 	* python
 - [ ] zadanie 67
-	* python: **pouzupełniać**
+	* python
 	* arkusz kalkulacyjny: **poprawić, aby nie pokazywał liczby**
 - [ ] zadanie 68
 - [ ] zadanie 69
