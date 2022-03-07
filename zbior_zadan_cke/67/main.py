@@ -9,7 +9,6 @@ print("Zadanie 67.1")
 for i in range(9,40, 10):
     print(fibo[i])
 
-
 ### 67.2
 print("Zadanie 67.2")
 def is_prime(a):
@@ -25,7 +24,7 @@ for i in fibo:
         print(i)
 
 ### 67.3
-print("Zadanie 67.3 -> przepipować i do arkusza")
+print("Zadanie 67.3 -> przepipeować i do arkusza")
 l = len(bin(fibo[-1])[2:])
 for i in fibo:
     tmp = "0"*(l-len(bin(i)[2:])) + bin(i)[2:]
