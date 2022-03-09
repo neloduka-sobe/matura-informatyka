@@ -1,0 +1,6 @@
+Zadanie 68.1
+Ilość: 9
+Zadanie 68.2
+Ilość: 93
+Zadanie 68.3
+Maks: 17

@@ -23,10 +23,11 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 	* python
 - [x] zadanie 66
 	* python
-- [ ] zadanie 67
+- [x] zadanie 67
 	* python
 	* arkusz kalkulacyjny: **poprawić, aby nie pokazywał liczby**
-- [ ] zadanie 68
+- [x] zadanie 68
+	* python
 - [ ] zadanie 69
 - [ ] zadanie 70
 - [ ] zadanie 71
