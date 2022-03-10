@@ -1,0 +1,16 @@
+Zadanie 72.1
+Pierwszy: feycznvjtboxfx gthzgbpglrwjqxqlculgwzdhuevrmvssozrwdjcqcb
+Ilość: 70
+Zadanie 72.2
+Linia: ['kxazlp', 'kxazlpe']
+Ciąg: e
+Linia: ['ifvjhuqvh', 'ifvjhuqvhcupzcpw']
+Ciąg: cupzcpw
+Linia: ['aznqxr', 'aznqxryrbgshtceaylwak']
+Ciąg: yrbgshtceaylwak
+Zadanie 72.3
+DługoSć: 15
+Pary:
+['zccvywdcmjrdokqzcnayixplhkrf', 'sarkqzcnayixplhkrf']
+['iokvlepqzeyvycfjkliiutmzqawwjxgf', 'dfcfyddwodduznkmivqxnrdliiutmzqawwjxgf']
+['psmwjyystgwchofokzvmkmgusfakroambngky', 'mabgusfakroambngky']

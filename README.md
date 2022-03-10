@@ -31,8 +31,10 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 - [ ] zadanie 69
 - [ ] zadanie 70
 - [ ] zadanie 71
-- [ ] zadanie 72
-- [ ] zadanie 73
+- [x] zadanie 72
+	* python
+- [x] zadanie 73
+	* python
 - [ ] zadanie 74
 - [ ] zadanie 75
 - [ ] zadanie 76
@@ -60,7 +62,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 - [ ] zadanie 98
 - [x] zadanie 99
 	* LibreOffice Base
-- [ ] zadanie 100
+- [x] zadanie 100
+	* LibreOffice Base
 - [ ] zadanie 101
 - [ ] zadanie 102
 - [ ] zadanie 103
