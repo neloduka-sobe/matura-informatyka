@@ -64,7 +64,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 	* LibreOffice Base
 - [x] zadanie 100
 	* LibreOffice Base
-- [ ] zadanie 101
+- [x] zadanie 101
+	* LibreOffice Base
 - [ ] zadanie 102
 - [ ] zadanie 103
 - [ ] zadanie 104
