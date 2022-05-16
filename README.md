@@ -57,7 +57,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 - [ ] zadanie 89
 - [ ] zadanie 90
 - [ ] zadanie 91
-- [ ] zadanie 92
+- [x] zadanie 92
+	* arkusz kalkulacyjny
 - [ ] zadanie 93
 - [ ] zadanie 94
 - [ ] zadanie 95
