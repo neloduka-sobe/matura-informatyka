@@ -64,9 +64,9 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 - [ ] zadanie 95
 - [ ] zadanie 96
 - [ ] zadanie 97
-- [ ] zadanie 98
+- [x] zadanie 98
 	* python
-	* LibreOffice Base #TODO
+	* LibreOffice Base
 - [x] zadanie 99
 	* LibreOffice Base
 - [x] zadanie 100
