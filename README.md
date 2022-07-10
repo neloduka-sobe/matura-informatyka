@@ -91,7 +91,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 - [x] zadanie 110
 	* LibreOffice Base **wygląda dobrze, ale dla LibreOffice to za duże dane**
 - [ ] zadanie 111
-- [ ] zadanie 112
+- [x] zadanie 112
+	* LibreOffice Base
 
 # Arkusze maturalne
 Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
