@@ -46,7 +46,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 - [x] zadanie 81
 	* python
 - [ ] zadanie 82
-- [ ] zadanie 83
+- [x] zadanie 83
+	* arkusz kalkulacyjny
 - [ ] zadanie 84
 - [x] zadanie 85
 	* arkusz kalkulacyjny
