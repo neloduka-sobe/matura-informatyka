@@ -1,0 +1,25 @@
+Zadanie 95.1
+7485.84 LPP
+960.06 WAWEL
+481.56 PZU
+Zadanie 95.2
+Nazwa: MILKILAND
+Wartosc: 27.85
+Zadanie 95.3
+(a)
+Krajowe: 418
+Obrót: 2427046811
+Zagraniczne: 52
+Obrót: 29736190
+Proc. udział spk.: 98.79
+Zadanie 95.4
+data wig m
+2015-01-21 50987.13 281091498490.0
+data wig m
+2015-01-22 51554.46 284219170040.0
+data wig m
+2015-01-23 51750.07 285297602760.0
+Zadanie 95.5
+Kupic: 53
+Sprzedac: 20
+Czekac: 397
