@@ -64,7 +64,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 	* arkusz kalkulacyjny
 - [ ] zadanie 93
 - [ ] zadanie 94
-- [ ] zadanie 95
+- [x] zadanie 95
+	* LibreOffice Base
 - [ ] zadanie 96
 - [ ] zadanie 97
 - [x] zadanie 98
