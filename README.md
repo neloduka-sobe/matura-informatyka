@@ -105,7 +105,7 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 - [x] zadanie 112
 	* LibreOffice Base
 
-# Arkusze maturalne
+### Arkusze maturalne
 Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 
 - [ ] Matura maj 2011
@@ -115,3 +115,48 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 4
 	* [x] zadanie 5
 	* [ ] zadanie 6
+
+### Algorytmy
+Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
+
+- Algorytmy na liczbach całkowitych
+	* [ ] reprezentacja liczb w dowolnym systemie pozycyjnym
+	* [ ] liczba pierwsza
+	* [ ] liczba doskonała
+	* [ ] rozkład na czynniki pierwsze
+	* [ ] algorytm Euklidesa
+	* [ ] ciąg Fibonacciego
+	* [ ] wydawanie reszty metodą zachłanną
+- Algoryty wyszukiwania i porządkowania
+	* [ ] wyszukiwanie najmniejszego i największego elementu w zbiorze
+	* [ ] sortowanie bąbelkowe
+	* [ ] sortowanie przez wybór
+	* [ ] sortowanie przez wstawianie
+	* [ ] sortowanie przez scalanie
+	* [ ] sortowanie szybkie
+	* [ ] sortowanie kubełkowe
+- Algorytmy numeryczne
+	* [ ] obliczanie wartości pierwiastka kwadratowego
+	* [ ] obliczanie wartości wielomianu za pomocą schematu Hornera
+	* [ ] zastosowania schematu Hornera
+	* [ ] obliczanie pola obszarów zamkniętych metodą trapezów i prostokątów
+- Algorytmy na tekstach
+	* [ ] palindrom
+	* [ ] anagram
+	* [ ] porządkowanie leksykograficzne
+	* [ ] wyszukiwanie wzorca w tekście
+	* [ ] obliczanie wartości wyrażenia podanego w postaci odwrotnej notacji polskiej
+- Algorytmy kompresji i szyfrowania
+	* [ ] kody znaków o zmiennej długości
+	* [ ] szyfr Cezara
+	* [ ] szyfr przestawieniowy
+	* [ ] RSA
+- Algorytmy badające własności geometryczne
+	* [ ] sprawdzanie warunku trójkąta
+	* [ ] badanie położenia punktów względem prostej
+	* [ ] badanie przynależności punktu do odcinka
+	* [ ] przecinanie się odcinków
+	* [ ] przynależność punktu do obszaru
+	* [ ] drzewo binarne
+	* [ ] dywan Sierpińskiego
+	* [ ] płatek Kocha
