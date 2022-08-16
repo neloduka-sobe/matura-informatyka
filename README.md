@@ -152,7 +152,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] szyfr przestawieniowy
 	* [ ] RSA
 - Algorytmy badające własności geometryczne
-	* [ ] sprawdzanie warunku trójkąta
+	* [x] sprawdzanie warunku trójkąta
 	* [ ] badanie położenia punktów względem prostej
 	* [ ] badanie przynależności punktu do odcinka
 	* [ ] przecinanie się odcinków
