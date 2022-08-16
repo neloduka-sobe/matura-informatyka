@@ -1,0 +1,8 @@
+Zadanie 74.1
+ilosc1=16
+Zadanie 74.2
+['8Y7JGYXXR5', 'Ehz018657', 'PAsCMQaervw', 'cefdi', 'cek', 'ikfLDegQXj', 'jir', 'yvm249t83o04']
+Zadanie 74.3
+ilosc3=39
+Zadanie 74.4
+ilosc4=40
