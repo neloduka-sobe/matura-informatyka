@@ -48,7 +48,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 - [ ] zadanie 82
 - [x] zadanie 83
 	* arkusz kalkulacyjny
-- [ ] zadanie 84
+- [x] zadanie 84
+	* arkusz kalkulacyjny
 - [x] zadanie 85
 	* arkusz kalkulacyjny
 - [ ] zadanie 86
