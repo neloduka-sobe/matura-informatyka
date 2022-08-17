@@ -1,0 +1,26 @@
+Zadanie 75.1
+did
+desired
+destroyed
+devised
+Zadanie 75.2
+wkqoocjqwo
+iujolqzzwr
+udwjtljuip
+tlcpgujurjqk
+yplcjdwotwr
+kqrrfwwcjtl
+mupmwjpqpg
+kqrrfwwcjtl
+wotchfqolwr
+Zadanie 75.3
+Klucz szyfrujący dla jeden a=3, b=7
+Klucz deszyfrujący dla jeden a=9, b=15
+Klucz szyfrujący dla dwa a=1, b=3
+Klucz deszyfrujący dla dwa a=1, b=23
+Klucz szyfrujący dla trzy a=17, b=14
+Klucz deszyfrujący dla trzy a=23, b=16
+Klucz szyfrujący dla cztery a=7, b=0
+Klucz deszyfrujący dla cztery a=15, b=0
+Klucz szyfrujący dla piec a=25, b=13
+Klucz deszyfrujący dla piec a=25, b=13
