@@ -1,0 +1,9 @@
+Zadanie 69.1
+Rozmiar największego gatunku: max1=20
+Liczba gatunków: len(zad1)=207
+Zadanie 69.2
+ilosc2=8
+Zadanie 69.3
+Maksymalna ilość: max_il=11, Maksymalna długość: max_len=189
+Zadanie 69.4
+odporne=249, silnie_odporne=187

@@ -28,7 +28,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 	* arkusz kalkulacyjny: **poprawić, aby nie pokazywał liczby**
 - [x] zadanie 68
 	* python
-- [ ] zadanie 69
+- [x] zadanie 69
+	* python
 - [ ] zadanie 70
 - [ ] zadanie 71
 - [x] zadanie 72
