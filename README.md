@@ -42,7 +42,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 	* python
 - [x] zadanie 76
 	* python
-- [ ] zadanie 77
+- [x] zadanie 77
+	* python
 - [x] zadanie 78
 	* python
 - [ ] zadanie 79
