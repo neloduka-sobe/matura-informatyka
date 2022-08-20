@@ -1,0 +1,4 @@
+Zadanie 79.1: [1339, 274, 166, 218, 3]
+Zadanie 79.2: 158
+Zadanie 79.3: 231
+Zadanie 79.4: 87
