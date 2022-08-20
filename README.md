@@ -66,7 +66,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 	* arkusz kalkulacyjny
 - [x] zadanie 88
 	* arkusz kalkulacyjny
-- [ ] zadanie 89
+- [x] zadanie 89
+	* python
 - [x] zadanie 90
 	* LibreOffice Base
 - [x] zadanie 91

@@ -1,0 +1,30 @@
+Zadanie 89.1
+Bialaszewski Wiktor
+Cicherski Szymon
+Florek Sandra
+Kaminski Mikolaj
+Krol Malgorzata
+
+Zadanie 89.2
+Najczęstszy wynik: 55.6
+Sochacka Inka
+Broszkow Zofia
+Murczynska Laura
+Majtas Lucja
+Odya Kacper
+Sokolnicka Inga
+
+Zadanie 89.3
+Grzelecki Oliwier
+Wojcicki Aleks
+Rembiewski Jakub
+Przytula Jakub
+
+Zadanie 89.4 (wykres w plik wykres.ods)
+Jezyk Polski: [95, 96, 101, 108, 114]
+Matematyka: [110, 106, 100, 97, 101]
+Biologia: [101, 105, 94, 110, 104]
+Geografia: [112, 97, 96, 97, 112]
+
+Zadanie 89.5:
+ilosc5=300
