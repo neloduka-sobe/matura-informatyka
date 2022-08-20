@@ -1,0 +1,49 @@
+Zadanie 86.1
+Okręg: A1; Suma głosów: 94989
+Okręg: A2; Suma głosów: 61487
+Okręg: A3; Suma głosów: 67178
+Okręg: A4; Suma głosów: 70318
+Okręg: A5; Suma głosów: 74985
+Okręg: B1; Suma głosów: 72187
+Okręg: B2; Suma głosów: 71950
+Okręg: B3; Suma głosów: 62913
+Okręg: B4; Suma głosów: 69326
+Okręg: B5; Suma głosów: 75045
+Okręg: C1; Suma głosów: 79735
+Okręg: C2; Suma głosów: 73675
+Okręg: C3; Suma głosów: 65751
+Okręg: C4; Suma głosów: 69332
+Okręg: C5; Suma głosów: 75876
+Okręg: D1; Suma głosów: 73580
+Okręg: D2; Suma głosów: 71402
+Okręg: D3; Suma głosów: 60146
+Okręg: D4; Suma głosów: 63234
+Okręg: D5; Suma głosów: 51362
+Zadanie 86.2
+K0: A2
+K1: D5
+K2: A5
+K3: B4
+K4: D5
+Zadanie 86.3
+K1: 8
+K2: 4
+K3: 7
+K4: 8
+K5: 3
+Zadanie 86.4 standardowy
+K0: 94
+K1: 57
+K2: 82
+K3: 126
+K4: 41
+Zadanie 86.4 regionalny
+K0: 97
+K1: 56
+K2: 82
+K3: 127
+K4: 38
+Zdanie 86.5
+mx=10: 47500
+mx=20: 48750
+mx=50: 49500
