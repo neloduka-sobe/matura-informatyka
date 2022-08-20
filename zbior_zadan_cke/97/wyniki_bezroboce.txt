@@ -1,0 +1,10 @@
+Zadanie 97.1
+ilosc1=42
+Zadanie 97.2
+Max: 10.85, Rok: 1982
+Min: 3.64, Rok: 1953
+Zadanie 97.3 w pliku wykres_zad3.csv
+Zadanie 97.4
+Długość: 13, Start/Stop (rok, miesiąc): [[1994, 2], [1995, 2]]
+Zadanie 97.5
+ilosc=15

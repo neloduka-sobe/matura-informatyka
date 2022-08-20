@@ -80,7 +80,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 	* Python
 - [x] zadanie 96
 	* python
-- [ ] zadanie 97
+- [x] zadanie 97
+	* python
 - [x] zadanie 98
 	* python
 	* LibreOffice Base
