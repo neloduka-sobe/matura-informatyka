@@ -1,0 +1,81 @@
+Zadanie 94.1
+id: 718, Stosunek: 270%
+
+Zadanie 94.2
+10 lat
+11 lat
+12 lat
+13 lat
+
+Zadanie 94.3
+ilosc3=17
+
+Zadanie 94.4
+Chłopcy. Wiek: 1 Przyrost: 21.334947538337367
+Dziewczyny. Wiek: 1 Przyrost: 18.303030303030305
+Chłopcy. Wiek: 2 Przyrost: 13.000807102502018
+Dziewczyny. Wiek: 2 Przyrost: 16.462365591397848
+Chłopcy. Wiek: 3 Przyrost: 8.99677158999193
+Dziewczyny. Wiek: 3 Przyrost: 9.484848484848484
+Chłopcy. Wiek: 4 Przyrost: 7.237288135593221
+Dziewczyny. Wiek: 4 Przyrost: 7.658846529814272
+Chłopcy. Wiek: 5 Przyrost: 6.677158999192898
+Dziewczyny. Wiek: 5 Przyrost: 6.782991202346041
+Chłopcy. Wiek: 6 Przyrost: 5.988700564971752
+Dziewczyny. Wiek: 6 Przyrost: 5.775171065493646
+Chłopcy. Wiek: 7 Przyrost: 5.784503631961259
+Dziewczyny. Wiek: 7 Przyrost: 5.730205278592376
+Chłopcy. Wiek: 8 Przyrost: 5.497982243744955
+Dziewczyny. Wiek: 8 Przyrost: 5.823069403714565
+Chłopcy. Wiek: 9 Przyrost: 5.326069410815173
+Dziewczyny. Wiek: 9 Przyrost: 6.008797653958944
+Chłopcy. Wiek: 10 Przyrost: 5.199354317998385
+Dziewczyny. Wiek: 10 Przyrost: 6.166177908113392
+Chłopcy. Wiek: 11 Przyrost: 5.326876513317191
+Dziewczyny. Wiek: 11 Przyrost: 6.432062561094819
+Chłopcy. Wiek: 12 Przyrost: 6.011299435028248
+Dziewczyny. Wiek: 12 Przyrost: 6.290322580645161
+Chłopcy. Wiek: 13 Przyrost: 6.887005649717514
+Dziewczyny. Wiek: 13 Przyrost: 5.278592375366569
+Chłopcy. Wiek: 14 Przyrost: 7.250201775625505
+Dziewczyny. Wiek: 14 Przyrost: 3.3978494623655915
+Chłopcy. Wiek: 15 Przyrost: 5.731234866828087
+Dziewczyny. Wiek: 15 Przyrost: 1.895405669599218
+Chłopcy. Wiek: 16 Przyrost: 3.9838579499596447
+Dziewczyny. Wiek: 16 Przyrost: 0.8699902248289345
+Chłopcy. Wiek: 17 Przyrost: 2.317998385794996
+Dziewczyny. Wiek: 17 Przyrost: 0.3616813294232649
+Chłopcy. Wiek: 18 Przyrost: 0.9806295399515739
+Dziewczyny. Wiek: 18 Przyrost: 0.23558162267839688
+Chłopcy. Wiek: 19 Przyrost: 0.4721549636803874
+Dziewczyny. Wiek: 19 Przyrost: 0.11241446725317693
+
+Z obserwacji wyników:
+Chłopcy: 11 lat
+Dziewczyny: 8 lat
+
+Zadanie 94.5
+Dane do arkusza kalkulacyjnego w pliku centyle.csv
+
+Zadanie 94.6
+Wiek: 0, Mediana: 52
+Wiek: 1, Mediana: 74
+Wiek: 2, Mediana: 87
+Wiek: 3, Mediana: 96
+Wiek: 4, Mediana: 103
+Wiek: 5, Mediana: 110
+Wiek: 6, Mediana: 116
+Wiek: 7, Mediana: 121
+Wiek: 8, Mediana: 127
+Wiek: 9, Mediana: 132
+Wiek: 10, Mediana: 138
+Wiek: 11, Mediana: 143
+Wiek: 12, Mediana: 149
+Wiek: 13, Mediana: 156
+Wiek: 14, Mediana: 163
+Wiek: 15, Mediana: 169
+Wiek: 16, Mediana: 173
+Wiek: 17, Mediana: 175
+Wiek: 18, Mediana: 176
+Wiek: 19, Mediana: 176
+Dane do wykresu w pliku mediana.csv
