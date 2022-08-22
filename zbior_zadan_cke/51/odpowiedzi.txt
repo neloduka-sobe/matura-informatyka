@@ -1,0 +1,17 @@
+51
+# - brak zaznaczenia
+X - zaznaczenie
+
+Prawidłowe wg. klucza
+A X X
+B # X
+C # #
+D # X
+
+Prawidłowe wg. mnie
+A X X
+B # X
+C # #
+D X X
+
+Metoda słownikowa jest powszechnie używana w ataku brute force
