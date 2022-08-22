@@ -58,9 +58,9 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 - [ ] zadanie 52
 - [ ] zadanie 53
 - [ ] zadanie 54
-- [ ] zadanie 55
-- [ ] zadanie 56
-- [ ] zadanie 57
+- [x] zadanie 55
+- [x] zadanie 56
+- [x] zadanie 57
 - [x] zadanie 58
 	* python
 - [x] zadanie 59
