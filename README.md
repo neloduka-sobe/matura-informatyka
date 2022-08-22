@@ -48,11 +48,11 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 - [ ] zadanie 42
 - [ ] zadanie 43
 - [ ] zadanie 44
-- [ ] zadanie 45
-- [ ] zadanie 46
-- [ ] zadanie 47
-- [ ] zadanie 48
-- [ ] zadanie 49
+- [x] zadanie 45
+- [x] zadanie 46
+- [x] zadanie 47
+- [x] zadanie 48
+- [x] zadanie 49
 - [x] zadanie 50
 - [x] zadanie 51
 - [x] zadanie 52
