@@ -56,8 +56,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 - [ ] zadanie 50
 - [ ] zadanie 51
 - [ ] zadanie 52
-- [ ] zadanie 53
-- [ ] zadanie 54
+- [x] zadanie 53
+- [x] zadanie 54
 - [x] zadanie 55
 - [x] zadanie 56
 - [x] zadanie 57
