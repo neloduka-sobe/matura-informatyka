@@ -4,63 +4,63 @@ Rozwiązania zadań maturalnych w pythonie
 ### Zbiór zadań CKE
 Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część pierwsza)](http://code.kopernik-leszno.pl/news/c-28/zbior-zadan) i [strony 2 Liceum Ogólnokształcącego w Lesznie (część druga)](http://code.kopernik-leszno.pl/news/c-29/zbior-zadan)
 
-- [] zadanie 1
-- [] zadanie 2
-- [] zadanie 3
-- [] zadanie 4
-- [] zadanie 5
-- [] zadanie 6
-- [] zadanie 7
-- [] zadanie 8
-- [] zadanie 9
-- [] zadanie 10
-- [] zadanie 11
-- [] zadanie 12
-- [] zadanie 13
-- [] zadanie 14
-- [] zadanie 15
-- [] zadanie 16
-- [] zadanie 17
-- [] zadanie 18
-- [] zadanie 19
-- [] zadanie 20
-- [] zadanie 21
-- [] zadanie 22
-- [] zadanie 23
-- [] zadanie 24
-- [] zadanie 25
-- [] zadanie 26
-- [] zadanie 27
-- [] zadanie 28
-- [] zadanie 29
-- [] zadanie 30
-- [] zadanie 31
-- [] zadanie 32
-- [] zadanie 33
-- [] zadanie 34
-- [] zadanie 35
-- [] zadanie 36
-- [] zadanie 37
-- [] zadanie 38
-- [] zadanie 39
-- [] zadanie 40
-- [] zadanie 41
-- [] zadanie 42
-- [] zadanie 43
-- [] zadanie 44
-- [] zadanie 45
-- [] zadanie 46
-- [] zadanie 47
-- [] zadanie 48
-- [] zadanie 49
-- [] zadanie 50
-- [] zadanie 51
-- [] zadanie 52
-- [] zadanie 53
-- [] zadanie 54
-- [] zadanie 55
-- [] zadanie 56
-- [] zadanie 57
+- [ ] zadanie 1
+- [ ] zadanie 2
+- [ ] zadanie 3
+- [ ] zadanie 4
+- [ ] zadanie 5
+- [ ] zadanie 6
+- [ ] zadanie 7
+- [ ] zadanie 8
+- [ ] zadanie 9
+- [ ] zadanie 10
+- [ ] zadanie 11
+- [ ] zadanie 12
+- [ ] zadanie 13
+- [ ] zadanie 14
+- [ ] zadanie 15
+- [ ] zadanie 16
+- [ ] zadanie 17
+- [ ] zadanie 18
+- [ ] zadanie 19
+- [ ] zadanie 20
+- [ ] zadanie 21
+- [ ] zadanie 22
+- [ ] zadanie 23
+- [ ] zadanie 24
+- [ ] zadanie 25
+- [ ] zadanie 26
+- [ ] zadanie 27
+- [ ] zadanie 28
+- [ ] zadanie 29
+- [ ] zadanie 30
+- [ ] zadanie 31
+- [ ] zadanie 32
+- [ ] zadanie 33
+- [ ] zadanie 34
+- [ ] zadanie 35
+- [ ] zadanie 36
+- [ ] zadanie 37
+- [ ] zadanie 38
+- [ ] zadanie 39
+- [ ] zadanie 40
+- [ ] zadanie 41
+- [ ] zadanie 42
+- [ ] zadanie 43
+- [ ] zadanie 44
+- [ ] zadanie 45
+- [ ] zadanie 46
+- [ ] zadanie 47
+- [ ] zadanie 48
+- [ ] zadanie 49
+- [ ] zadanie 50
+- [ ] zadanie 51
+- [ ] zadanie 52
+- [ ] zadanie 53
+- [ ] zadanie 54
+- [ ] zadanie 55
+- [ ] zadanie 56
+- [ ] zadanie 57
 - [x] zadanie 58
 	* python
 - [x] zadanie 59
