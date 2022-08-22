@@ -1,0 +1,9 @@
+Zadanie 70.1
+Powierzchia zasłony:  117.705
+Powierzchia pozostałego materiału:  299.533
+
+Zadanie 70.2
+Należy kupić: 126 m taśmy
+
+Zadanie 70.3:
+Długość pasów jest równa: 429 m
