@@ -31,7 +31,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie](http://co
 - [x] zadanie 69
 	* python
 - [ ] zadanie 70
-- [ ] zadanie 71
+- [x] zadanie 71
+	* python **Na chama, ale jest i działa**
 - [x] zadanie 72
 	* python
 - [x] zadanie 73
