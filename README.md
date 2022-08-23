@@ -46,8 +46,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 - [ ] zadanie 40
 - [ ] zadanie 41
 - [ ] zadanie 42
-- [ ] zadanie 43
-- [ ] zadanie 44
+- [x] zadanie 43
+- [x] zadanie 44
 - [x] zadanie 45
 - [x] zadanie 46
 - [x] zadanie 47

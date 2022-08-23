@@ -1,0 +1,14 @@
+43.1
+serwis pogodowy - lokazlizacja dla której podaana jest pogoda
+wyszukiwanie optymalnnej trasy samochodowej - potrzebna do określenia lokalizacji samochodu
+serwis informacji turystycznej Wrocławia - pozwala zaproponować atrakcje na podstawie lokalizacji
+
+43.2
+system komputerowego składu tekstu - urządzenia mobinie nie posiadają wygodnej klawiatury. Jest to znaczące utrudnienie przy korzystaniu z programu
+arkusz kalkulacyjny - podobnie jak przy systemie komputerowego składu tekstu
+
+43.3
+FPFP
+
+43.4
+FPPFP
