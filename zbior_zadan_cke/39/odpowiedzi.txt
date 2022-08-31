@@ -1,0 +1,6 @@
+39.1
+drugie, ze względu na rozmiar, mający wpływ na czas ładowania strony
+39.2
+TIFF, ze względu na najmniejsze/brak strat jakości
+39.3
+2304 kB
