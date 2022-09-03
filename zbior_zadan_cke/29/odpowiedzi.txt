@@ -1,0 +1,23 @@
+29.1
+MATURA
+
+29.2
+
+def pobierz_litere(wiadomosc):
+	l = 'bialy'
+	ret = ''
+	while True:
+		tmp = pobierz(wiadomosc)
+		dolacz(ret, tmp)
+		if tmp == 'czarny' and l == 'czarny':
+			return ret, wiadomosc
+		l = tmp	
+		
+29.3
+
+def zad29_3(ciag):
+	pusty(tekst)
+	while czy_sa_kulki(ciag):
+		dopisz(ret, pobierz_litere(ciag))	
+	return ret
+		
