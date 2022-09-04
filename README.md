@@ -4,7 +4,7 @@ Rozwiązania zadań maturalnych w pythonie
 ### Zbiór zadań CKE
 Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część pierwsza)](http://code.kopernik-leszno.pl/news/c-28/zbior-zadan) i [strony 2 Liceum Ogólnokształcącego w Lesznie (część druga)](http://code.kopernik-leszno.pl/news/c-29/zbior-zadan)
 
-- [ ] zadanie 1
+- [x] zadanie 1
 - [ ] zadanie 2
 - [ ] zadanie 3
 - [ ] zadanie 4
