@@ -1,0 +1,38 @@
+30.1
+
+def szyfruj(zn, k):
+	k = k mod 26
+	tmp = kod(zn) + k 
+	if tmp > 90:
+		return znak(tmp-26)
+	return znak(tmp)
+
+30.2
+
+for ind, i in enumerate(list("INFORMATYKA")):
+	print(chr(ord(i)+ind+1 if ord(i)+ind+1 <= 90 else (ord(i)+ind+1-26)))
+JPISWSHBHUL
+
+for ind, i in enumerate(list("LQPTZZLZ")):
+	print(chr(ord(i)-ind-1))
+KOMPUTER
+
+30.3
+Jak w powyższym przykładzie
+
+slowo = input()
+for ind, i in enumerate(list(slowo)):
+	print(chr(ord(i)+ind+1 if ord(i)+ind+1 <= 90 else (ord(i)+ind+1-26)))
+
+###
+def zad3(slowo):
+	slowo = ''
+	n = len(slowo)
+	ret = ''
+	for i in range(n):
+		if kod(slowo[n]+i+1) <= 90:
+			ret +=  (znak(kod(slowo[n]+1+i)))
+		else:
+			ret += (znak(kod(slowo[n])-25+i)))
+	return ret
+	
