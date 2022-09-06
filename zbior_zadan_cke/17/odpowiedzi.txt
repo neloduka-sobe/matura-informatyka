@@ -1,0 +1,20 @@
+17.1
+i zamiast lub w 3 linii
+>= 0 zamiast = 100 w 4 linii
+
+17.2
+brzegowe
+niezgodne
+standardowe
+standardowe
+brzegowe
+
+17.3
+PFFP
+
+17.4
+włączony
+nieustalony
+wyłączony
+wyłączony
+wyłączony
