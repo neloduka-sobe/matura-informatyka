@@ -272,7 +272,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] rozkład na czynniki pierwsze
 	* [ ] algorytm Euklidesa
 	* [ ] ciąg Fibonacciego
-	* [ ] wydawanie reszty metodą zachłanną
+	* [x] wydawanie reszty metodą zachłanną
 - Algoryty wyszukiwania i porządkowania
 	* [ ] wyszukiwanie najmniejszego i największego elementu w zbiorze
 	* [ ] sortowanie bąbelkowe
