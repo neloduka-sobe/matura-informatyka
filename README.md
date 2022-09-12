@@ -294,7 +294,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] obliczanie wartości wyrażenia podanego w postaci odwrotnej notacji polskiej
 - Algorytmy kompresji i szyfrowania
 	* [ ] kody znaków o zmiennej długości
-	* [ ] szyfr Cezara
+	* [x] szyfr Cezara
 	* [ ] szyfr przestawieniowy
 	* [ ] RSA
 - Algorytmy badające własności geometryczne
