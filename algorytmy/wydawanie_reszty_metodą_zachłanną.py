@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # by neloduka_sobe
 
-# Dla nominałów posortowanych rosnąco
+# Dla nominałów posortowanych malejąco
 def wydawanie_reszty(kwota, nominaly):
     """
         kwota - int; kwota reszty do wydania
@@ -23,7 +23,7 @@ def wydawanie_reszty(kwota, nominaly):
 
     return wydane_nominaly # Zwróć wydane nominały
 
-# Dla nominałów posortowanych malejąco
+# Dla nominałów posortowanych rosnąco
 def wydawanie_reszty_1(kwota, nominaly):
     """
         kwota - int; kwota reszty do wydania
