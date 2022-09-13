@@ -5,7 +5,7 @@
 # Wersja iteracyjna
 def wyszukiwanie_binarne(tab, lewy, prawy, szukany):
 
-    while lewy < prawy:
+    while lewy < prawy: # Dopóki podtablica ma prawo istnieć
         
         # Wyznaczamy środek szukanego obszaru
         srodek = (lewy+prawy) // 2
@@ -28,7 +28,7 @@ def wyszukiwanie_binarne(tab, lewy, prawy, szukany):
 # Wersja rekurencyjna 1
 def wyszukiwanie_binarne_1(tab, lewy, prawy, szukany):
 
-    if prawy >= lewy:
+    if prawy > lewy:
 
         srodek = lewy + ((prawy-lewy) // 2) # Wyznaczanie środka
         if srodek > len(tab) - 1:
@@ -40,7 +40,7 @@ def wyszukiwanie_binarne_1(tab, lewy, prawy, szukany):
         
         # Jeśli element szukany jest mniejszy od środka (znajduje się po lewej stronie)
         elif tab[srodek] > szukany:
-            return wyszukiwanie_binarne_1(tab, lewy, srodek-1, szukany)
+            return wyszukiwanie_binarne_1(tab, lewy, srodek, szukany)
 
         # Jeśli element szukany jest większy od środka (znajduje się po prawej stronie)
         else:
@@ -52,18 +52,18 @@ def wyszukiwanie_binarne_1(tab, lewy, prawy, szukany):
 
 # Wersja rekurencyjna 2
 def wyszukiwanie_binarne_2(tab, szukany, ind=0):
-    srodek = (len(tab)-1) // 2
+    srodek = (len(tab)-1) // 2 # Wyznaczanie środka
 
-    if len(tab) == 1 and tab[0] != szukany:
+    if len(tab) == 1 and tab[0] != szukany: # Gdy podtablica ma jeden element różny od szukanej liczby, to znaczy, że dana liczba nie znajduje się w tablicy
         return -1
 
-    elif tab[srodek] == szukany:
+    elif tab[srodek] == szukany: # Jeśli liczba równa jest szukanej liczbie
         return  ind + srodek
 
-    elif tab[srodek] < szukany:
+    elif tab[srodek] < szukany: # Jeśli szukana jest na prawo od środka
         return wyszukiwanie_binarne_2(tab[srodek+1:], szukany, ind+srodek+1)
 
-    else:
+    else: # Jeśli szukana jest na lewo od środka
         return wyszukiwanie_binarne_2(tab[:srodek], szukany, ind)
 
 
