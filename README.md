@@ -274,6 +274,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] ciąg Fibonacciego
 	* [x] wydawanie reszty metodą zachłanną
 - Algoryty wyszukiwania i porządkowania
+	* [x] wyszukiwanie binarne
 	* [ ] wyszukiwanie najmniejszego i największego elementu w zbiorze
 	* [ ] sortowanie bąbelkowe
 	* [ ] sortowanie przez wybór
