@@ -36,7 +36,7 @@ def dzies_na_siln(liczba):
 
 
 # Testy
-war = [i for i in range(100)]
+war = [i for i in range(1000)]
 for i in war:
     if i != siln_na_dzies(dzies_na_siln(i)):
         print(i)
