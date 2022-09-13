@@ -267,6 +267,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 - Algorytmy na liczbach całkowitych
 	* [x] sito Erastotenesa
 	* [ ] reprezentacja liczb w dowolnym systemie pozycyjnym
+	* [x] reprezentacja liczb w silniowym systemie pozycyjnym
 	* [ ] liczba pierwsza
 	* [ ] liczba doskonała
 	* [ ] rozkład na czynniki pierwsze
