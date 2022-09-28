@@ -273,7 +273,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] liczba doskonała
 	* [ ] rozkład na czynniki pierwsze
 	* [ ] algorytm Euklidesa
-	* [ ] ciąg Fibonacciego
+	* [x] ciąg Fibonacciego
 	* [x] wydawanie reszty metodą zachłanną
 - Algoryty wyszukiwania i porządkowania
 	* [x] wyszukiwanie binarne
