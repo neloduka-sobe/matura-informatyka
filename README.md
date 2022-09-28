@@ -290,7 +290,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] zastosowania schematu Hornera
 	* [ ] obliczanie pola obszarów zamkniętych metodą trapezów i prostokątów
 - Algorytmy na tekstach
-	* [ ] palindrom
+	* [x] palindrom
 	* [ ] anagram
 	* [ ] porządkowanie leksykograficzne
 	* [ ] wyszukiwanie wzorca w tekście
