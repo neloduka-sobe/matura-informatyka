@@ -1,5 +1,9 @@
 # matura-informatyka
-Rozwiązania zadań maturalnych w pythonie
+[PL]
+Rozwiązania zadań maturalnych i opracowania algorytmów w pythonie. Nie są one najlepszej jakości - pisane na szybko, głównie po polsku.
+
+[EN] 
+Sollutions to polish matura exam (SAT equivalent to some extent) and required algorithms example implementations written primarly in python. Ain't best quality, but it's an honest work. Variables and comments are in pol-english.
 
 ### Zbiór zadań CKE
 Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część pierwsza)](http://code.kopernik-leszno.pl/news/c-28/zbior-zadan) i [strony 2 Liceum Ogólnokształcącego w Lesznie (część druga)](http://code.kopernik-leszno.pl/news/c-29/zbior-zadan)
