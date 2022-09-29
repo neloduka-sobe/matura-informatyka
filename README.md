@@ -272,7 +272,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] sito Erastotenesa
 	* [ ] reprezentacja liczb w dowolnym systemie pozycyjnym
 	* [x] reprezentacja liczb w silniowym systemie pozycyjnym
-	* [ ] reprezentacja liczb w systemie rzymskim
+	* [x] reprezentacja liczb w systemie rzymskim
 	* [ ] liczba pierwsza
 	* [ ] liczba doskonała
 	* [ ] rozkład na czynniki pierwsze
