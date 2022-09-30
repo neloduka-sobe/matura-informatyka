@@ -269,7 +269,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 
 - Algorytmy na liczbach całkowitych
-	* [ ] algorytm szybkiego potęgowania
+	* [x] algorytm szybkiego potęgowania
 	* [x] sito Erastotenesa
 	* [ ] reprezentacja liczb w dowolnym systemie pozycyjnym
 	* [x] reprezentacja liczb w silniowym systemie pozycyjnym
