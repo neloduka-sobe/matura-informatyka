@@ -291,7 +291,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] sortowanie kubełkowe
 - Algorytmy numeryczne
 	* [ ] obliczanie wartości pierwiastka kwadratowego
-	* [ ] obliczanie wartości wielomianu za pomocą schematu Hornera
+	* [x] obliczanie wartości wielomianu za pomocą schematu Hornera
 	* [ ] zastosowania schematu Hornera
 	* [ ] obliczanie pola obszarów zamkniętych metodą trapezów i prostokątów
 - Algorytmy na tekstach
