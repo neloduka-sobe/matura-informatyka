@@ -302,6 +302,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] wyszukiwanie wzorca w tekście
 	* [ ] obliczanie wartości wyrażenia podanego w postaci odwrotnej notacji polskiej
 - Algorytmy kompresji i szyfrowania
+	* [x] szyfr kolumnowy
 	* [ ] kody znaków o zmiennej długości
 	* [x] szyfr Cezara
 	* [ ] szyfr przestawieniowy
