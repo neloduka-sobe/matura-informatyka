@@ -280,6 +280,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] algorytm Euklidesa
 	* [x] ciąg Fibonacciego
 	* [x] wydawanie reszty metodą zachłanną
+	* [x] lider w zbiorze
 - Algoryty wyszukiwania i porządkowania
 	* [x] wyszukiwanie binarne
 	* [ ] wyszukiwanie najmniejszego i największego elementu w zbiorze
