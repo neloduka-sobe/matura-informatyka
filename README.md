@@ -309,6 +309,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] szyfr Cezara
 	* [ ] szyfr przestawieniowy
 	* [ ] RSA
+	* [x] Szyfr płotkowy
 - Algorytmy badające własności geometryczne
 	* [x] sprawdzanie warunku trójkąta
 	* [ ] badanie położenia punktów względem prostej
