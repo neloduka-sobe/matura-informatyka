@@ -34,6 +34,28 @@ def szyfr(tekst, klucz):
     # Sposób 2.
     return ''.join([i[y] for y in range(max(klucz)) for i in a if y < len(i) and i[y] != ' '])
 
+def de_szyfr(tekst, puste_indexy):
+    a = ['' for i in range(int(len(tekst)/6)+1)]
+    i,y,z=0,0,0
+    while i-y < len(tekst): 
+        if i in puste_indexy:
+            a[z] += ' '
+            y += 1
+        else:
+            a[z] += tekst[i-y]
+        if len(a[z]) == 6 and z < int(len(tekst)/6)+1:
+            z += 1
+        i += 1
+
+    ret = ''
+    for i in range(int(len(a[0]))):
+        for y in a:
+            if y[i] != ' ':
+                ret += y[i]
+    return ret
+
 ### Wywołanie
 if __name__ == "__main__":
     print(szyfr("KRYPTOANALIZA", [2,3,2,1]))
+    print(de_szyfr("KYAIRPONLZTAA", [2,3,12,15,16]))
+    print(de_szyfr("SERFTGNGAIAOA", [2,3,12,15,16]))
