@@ -37,4 +37,3 @@ def szyfr(tekst, klucz):
 ### Wywołanie
 if __name__ == "__main__":
     print(szyfr("KRYPTOANALIZA", [2,3,2,1]))
-    print(de_szyfr("SERFTGNGAIAOA", [2,3,2,1]))
