@@ -277,7 +277,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] liczba pierwsza
 	* [ ] liczba doskonała
 	* [ ] rozkład na czynniki pierwsze
-	* [ ] algorytm Euklidesa
+	* [x] algorytm Euklidesa
 	* [x] ciąg Fibonacciego
 	* [x] wydawanie reszty metodą zachłanną
 	* [x] lider w zbiorze
