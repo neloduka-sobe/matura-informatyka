@@ -6,4 +6,4 @@ def hanoi(a,b,c,n):
         print(a, "na", b)
         hanoi(c,b,a,n-1)
 if __name__ == "__main__":
-    hanoi('a', 'b', 'c', 3)
+    hanoi('a', 'b', 'c', 4)
