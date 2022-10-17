@@ -282,6 +282,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] wydawanie reszty metodą zachłanną
 	* [x] lider w zbiorze
 - Algoryty wyszukiwania i porządkowania
+	* [x] algorytm wieży Hanoi
 	* [x] wyszukiwanie binarne
 	* [ ] wyszukiwanie najmniejszego i największego elementu w zbiorze
 	* [ ] sortowanie bąbelkowe
