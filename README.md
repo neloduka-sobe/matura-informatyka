@@ -274,7 +274,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] reprezentacja liczb w dowolnym systemie pozycyjnym
 	* [x] reprezentacja liczb w silniowym systemie pozycyjnym
 	* [x] reprezentacja liczb w systemie rzymskim
-	* [ ] liczba pierwsza
+	* [x] liczba pierwsza
 	* [ ] liczba doskonała
 	* [ ] rozkład na czynniki pierwsze
 	* [x] algorytm Euklidesa
