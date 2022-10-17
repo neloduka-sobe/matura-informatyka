@@ -284,7 +284,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 - Algoryty wyszukiwania i porządkowania
 	* [x] algorytm wieży Hanoi
 	* [x] wyszukiwanie binarne
-	* [ ] wyszukiwanie najmniejszego i największego elementu w zbiorze
+	* [x] wyszukiwanie najmniejszego i największego elementu w zbiorze
 	* [ ] sortowanie bąbelkowe
 	* [ ] sortowanie przez wybór
 	* [ ] sortowanie przez wstawianie
