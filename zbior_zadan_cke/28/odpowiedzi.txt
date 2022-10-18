@@ -1,0 +1,16 @@
+28.1
+nie tak nie
+tak tak tak AB AA lub AB BB
+tak tak tak ABAA lub AABA
+tak nie nie nieparzyste
+
+28.2
+2 2 AA
+4 3 AABA
+8 4 AABABBBA
+
+m liczba liter A
+16 5
+32 6
+2^10 11
+2^20 21
