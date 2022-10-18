@@ -5,14 +5,14 @@ from random import randint
 
 def wzglednie_pierwsza(x):
     while True:
-        y = randint(100,100000000)
-        #y = 17 #użyte do testów
+        y = randint(1,10000)
+        #y = 17 #użyte do testów - 
         if euklides2(x,y) == 1:
             return y
 
 def gen_d(p,q,e):
     while True:
-        d = randint(100,100000000)
+        d = randint(1,10000)
         #d = 2753 #użyte do testów
         if (e*d) % ((p-1)*(q-1)) == 1:
             return d

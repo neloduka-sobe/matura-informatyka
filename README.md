@@ -309,7 +309,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] kody znaków o zmiennej długości
 	* [x] szyfr Cezara
 	* [ ] szyfr przestawieniowy
-	* [ ] RSA
+	* [x] RSA
 	* [x] RSA generowanie kluczy
 	* [x] Szyfr płotkowy
 - Algorytmy badające własności geometryczne
