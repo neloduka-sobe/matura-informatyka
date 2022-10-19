@@ -9,7 +9,7 @@ Sollutions to polish matura exam (SAT equivalent to some extent) and required al
 Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część pierwsza)](http://code.kopernik-leszno.pl/news/c-28/zbior-zadan) i [strony 2 Liceum Ogólnokształcącego w Lesznie (część druga)](http://code.kopernik-leszno.pl/news/c-29/zbior-zadan)
 
 - [x] zadanie 1
-- [ ] zadanie 2
+- [x] zadanie 2
 - [ ] zadanie 3
 - [x] zadanie 4
 - [ ] zadanie 5

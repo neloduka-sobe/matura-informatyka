@@ -1,0 +1,16 @@
+2.1
+Kolejne wykonanie	| Wartość zmiennej y
+1			| 0.6	
+2			| 0.2
+3			| 0.4
+4			| 0.8
+5			| 0.6
+
+2.2
+1/16
+
+2.3
+1. luka: y >= 1/3 i y < 2/3
+2. luka: y < 1/3
+3. luka: y -= 2
+4. luka: y -= 1
