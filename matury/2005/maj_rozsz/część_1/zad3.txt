@@ -1,0 +1,24 @@
+a)
+Narzędzie:1,5
+Technika przetwarzania i reprezentacji: I, II, III
+Uzasadnienie: Wysłanie pocztą elektroniczną lub poprzez formularz urzędu, przy użyciu kompresji dla pliku pdf i podpisu elektronicznego, jako potwierdzenie tożsamości oraz szyfrowania w celu zabezpieczenia konwersacji 
+b)
+Narzędzie: 1
+Technika przetwarzania i reprezentacji: I, II, III, IV
+Uzasadnienie: Szyfrowanie uchroni tajność danych, podpis elektroniczny uwierzytelni użytkownika, a kompresja zmniejszy rozmiar danych w zależności od typu danych
+c)
+Narzędzie: 6
+Technika przetwarzania i reprezentacji: II, III
+Uzasadnienie: Podpis elektroniczny pomoże egzekwować prawa licencyjne, a kompresja zmniejszy rozmiar danych
+d)
+Narzędzie: 3, 4, 2
+Technika przetwarzania i reprezentacji: III, IV
+Uzasadnienie: Udostępnienie danych w jakikolwiek dostępny sposób.
+e)
+Narzędzie:6
+Technika przetwarzania i reprezentacji: I, II
+Uzasadnienie: Podpis elektroniczny zapewni pewność co do odbiorcy i nadawcy wiadomości, a szyfrowanie zapewni poufność wymiany danych
+f)
+Narzędzie:2
+Technika przetwarzania i reprezentacji: III, IV
+Uzasadnienie: Umieszczenie plików na ogólnodostępnej stronie internetowej i użycie odpowiedniego algorytmu kompresji

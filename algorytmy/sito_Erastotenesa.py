@@ -50,4 +50,4 @@ def sito_3(n):
 
 print(sito_1(100))
 print(sito_2(100))
-print(sito_3(100))
+print(sito_3(1024))
