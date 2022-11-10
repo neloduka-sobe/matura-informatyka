@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 
-def ln(n,e):
-    l1 = 2/3
-    l2 = 0
-    l3 = float('inf')
-    for i in range(0, n+1):
-        l3 = l2 + ((1/(2*i+1))*(1/(9**i)))
-        if abs(l1*(l3-l2)) < e:
-            break
-    return l3*l1
+def ln(e):
+    l = (2/3)
+    l1 = float('inf')
+    i = 1
+    while True:
+        l1 = l + 2/3*((1/((2*i)+1))*(1/(9**i)))
+        if l1-l < e:
+            return l1
+        l = l1
+        l1 = float('inf')
+        i += 1
 
-print(ln(4, 0.1))
+print(ln(0.0001))
