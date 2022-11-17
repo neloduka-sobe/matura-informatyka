@@ -1,0 +1,15 @@
+1. uname -a
+Linux pop-os 5.17.5-76051705-generic #202204271406~1653440576~20.04~6277a18-Ubuntu SMP PREEMPT Thu Ma x86_64 x86_64 x86_64 GNU/Linux
+
+2. df 
+Filesystem     1K-blocks      Used Available Use% Mounted on
+udev             8049344         0   8049344   0% /dev
+tmpfs            1623952      2236   1621716   1% /run
+/dev/nvme0n1p2  80056888  51266064  24678444  68% /
+tmpfs            8119740        16   8119724   1% /dev/shm
+tmpfs               5120         0      5120   0% /run/lock
+tmpfs            8119740         0   8119740   0% /sys/fs/cgroup
+/dev/nvme0n1p4 409492012 253531592 135085928  66% /home
+/dev/nvme0n1p1    510980    291284    219696  58% /boot/efi
+tmpfs            1623948        24   1623924   1% /run/user/110
+tmpfs            1623948        48   1623900   1% /run/user/1000
