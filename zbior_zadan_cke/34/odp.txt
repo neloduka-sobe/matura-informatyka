@@ -1,0 +1,3 @@
+34
+W obliczeniach Bajtka: nmax = 7
+W obliczeniach Bitusia: nmax = 128
