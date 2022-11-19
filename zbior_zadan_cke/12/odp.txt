@@ -1,0 +1,20 @@
+12.1
+lp	|i	|k
+1	|0	|20
+2	|1	|21
+3	|2	|24
+4	|3	|26
+5	|4	|30
+6	|5	|35
+
+12.2
+26
+x mod 26 = y
+y e [0;25]
+
+12.3
+k	|Tekst[]	|Szyfrogram[]
+1	|MAPA		|OBOG
+14	|KOD		|DAN
+
+Prawdopodobnie w oficjalnych odpowiedziach są błędy
