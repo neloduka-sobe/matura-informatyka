@@ -5,3 +5,4 @@ rounddown(log2 m) - rounddown(log2 n)
 oblicza różnicę lat między osobnikami na skraju przedziałów, gdyż to od wieku zależy długość organizmu
 
 c)
+po 1 dla każdego wieku
