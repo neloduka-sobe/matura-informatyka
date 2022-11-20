@@ -1,0 +1,22 @@
+26.1
+0
+4
+NIE
+0
+NIE
+4
+
+26.2
+1
+1
+0
+1
+1
+0
+
+1 jeśli X jest słowem podrzędnym Y, w przeciwnym wypadku 0
+
+26.3
+fałsz
+k + 1
+fałsz
