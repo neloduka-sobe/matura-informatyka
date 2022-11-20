@@ -38,7 +38,7 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 - [x] zadanie 28
 - [x] zadanie 29
 - [x] zadanie 30
-- [ ] zadanie 31
+- [x] zadanie 31
 - [x] zadanie 32
 - [ ] zadanie 33
 - [x] zadanie 34
