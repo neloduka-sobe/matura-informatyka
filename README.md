@@ -26,7 +26,7 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 - [ ] zadanie 16
 - [x] zadanie 17
 - [x] zadanie 18
-- [ ] zadanie 19
+- [x] zadanie 19
 - [ ] zadanie 20
 - [ ] zadanie 21
 - [ ] zadanie 22
