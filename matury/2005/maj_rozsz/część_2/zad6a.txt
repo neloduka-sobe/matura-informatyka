@@ -1,0 +1,26 @@
+Nazwa tabeli: Państwa
+Artybuty: nazwa kraju(kraj), skrót nazwy kraju(skrot_kraj)
+Klucz główny: skrót nazwy kraju
+
+Nazwa tabeli: Zawodnicy
+Atrybuty: nr, imie_nazwisko, skrot_kraj, pkt
+Klucz główny: nr
+
+Nazwa tabeli: Kuusamo28
+Atrybuty: nr_zawodnika, dl1, nota1, dl2, nota2
+Klucz główny: nazwa_tabeli + nr_zawodnika
+
+Nazwa tabeli: Trondheim06
+Atrybuty: nr_zawodnika, dl1, nota1, dl2, nota2
+Klucz główny: nazwa_tabeli + nr_zawodnika
+
+Nazwa tabeli: Zakopane17
+Atrybuty: nr_zawodnika, dl1, nota1, dl2, nota2
+Klucz główny: nazwa_tabeli + nr_zawodnika
+
+Relacje:
+
+Państwa.skrot_karju jeden do wielu Zawodnicy.skrót_kraju
+Zawodnicy.nr jeden do jednego Kuusamo28.nr_zawodnika
+Zawodnicy.nr jeden do jednego Trondheim06.nr_zawodnika
+Zawodnicy.nr jeden do jednego Zakopane17.nr_zawodnika
