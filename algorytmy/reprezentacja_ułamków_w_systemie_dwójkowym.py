@@ -2,9 +2,9 @@
 # by neloduka_sobe
 # źródło: http://smurf.mimuw.edu.pl/node/477
 
-def zamiana(p, n, d):
+def zamiana(n, d):
     ret = '0.'
-    n *= p
+    n *= 2
     while d != 0  and n != 0:
         if n < 1:
             ret += '0'
@@ -12,8 +12,8 @@ def zamiana(p, n, d):
             ret += '1'
             n -= 1
         d -= 1
-        n *= p
+        n *= 2
     return ret
 
 if __name__ == '__main__':
-    print(zamiana(2, (1/2), 2))
+    print(zamiana((1/2), 2))

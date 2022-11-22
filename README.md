@@ -289,7 +289,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] ciąg Fibonacciego
 	* [x] wydawanie reszty metodą zachłanną
 	* [x] lider w zbiorze
-	* [x] reprezentacja ułamków w innych systemach pozycyjnych
+	* [x] reprezentacja ułamków w systemie dwójkowym
 - Algoryty wyszukiwania i porządkowania
 	* [x] algorytm wieży Hanoi
 	* [x] wyszukiwanie binarne
