@@ -1,0 +1,19 @@
+Zadanie 4.
+
+a)
+131.125.94.11
+b)
+64 zapisane w systemie trójkowym
+c)
+bit
+d)
+zbiór programów zarządzających pracą komputera
+e)
+zabezpieczenie dostępu do danych przez hasło
+f)
+wielotematyczny serwis internetowy
+g)
+Zastąpienie znaków tworzących tekst innymi znakami w sposób pozwalający
+odtworzyć tekst oryginalny
+h)
+siatki niezależnie traktowanych pikseli
