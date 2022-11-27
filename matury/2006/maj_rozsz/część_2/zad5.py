@@ -23,11 +23,11 @@ print(f"{pole=}")
 print("Zadanie 5 b)")
 i = 0
 while True:
-    if (abs(f(i)) + abs(g(i))) > 26:
+    if (int(abs(f(i))) + int(abs(g(i)))) > 26:
         print("Współrzędne")
-        print(f"{i}, {f(i)}")
-        print(f"{i}, {g(i)}")
-        print(f"{i+100}, {f(i)}")
-        print(f"{i+100}, {g(i)}")
+        print(f"{i}, {int(g(i))}")
+        print(f"{i}, {int(g(i))-26}")
+        print(f"{i+100}, {int(g(i))}")
+        print(f"{i+100}, {int(g(i))-26}")
         break
     i += 1
