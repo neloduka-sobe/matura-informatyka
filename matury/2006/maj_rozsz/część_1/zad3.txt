@@ -1,0 +1,29 @@
+Zadanie 3
+a)
+Stosowanie kluczy może służyć do rozróżniania różnych rekordów bazy, np. NumerLegitymacji jest unikatowy, natomiast imiona i nazwiska mogą się powtarzać, ponadto klucze mogą także łączyć rekordy się z rekordami z innych tabel, jako klucz obcy, łącząc np. ucznia ze zdawanym przedmiotem w tabeli stanowiącej relację wiele do wielu z NumeremLegitymaji i IdPrzedmiotu w pojedyńczym rekordzie
+Uczniowie - NumerLegitymacji
+Klasy - IdKlasy
+Przedmioty - IdPrzedmiotu
+b)
+	i.
+	Nazwa Tabeli ZdawanePrzedmioty
+	IdPołączenia (INT), NumerLegitymacji (INT), IdPrzedmiotu (STR)
+
+	Nazwa Tabeli Uczniowie
+	Imię (STR), Nazwisko (STR), NumerLegitymacji (INT), IdKlasy (INT)
+
+	Nazwa Tabeli Klasy
+	IdKlasy (STR), Profil (STR)
+
+	Nazwa Tabeli Przedmioty
+	IdPrzedmiotu (STR), Nazwa (STR)
+
+	ii.
+	Klasy (identyfikator klasy maturalnej) -> Uczniowie (identyfikator klasy maturalnej) jeden do wielu
+	Przedioty (Identyfikator przedmiotu) -> ZdawanePrzedmioty (IdPrzedmiotu) wiele do wielu
+	Uczniowie (NumerLegitymacji) -> ZdawanePrzedmioty (NumerLegitymacji) wiele do wielu
+
+c)
+Redudnancja - niepotrzebne przechowywanie nadmiarowych informacji - imie, nazwisko i Numer Legitymacji osoby zdającej 3 matury będą przechowywane 3 razy w bazie zamiast razu, co wpływa na rozmiar bazy danych i prędkości działania
+
+Anomalia modyfikacji - gdy występuje redundancja i należy zmienić pewną wartość w rekordach odwołujących się do pewnej osoby (np. nazwisko) należy zmienić wszystkie rekordy odwołujące się do danej osoby. Anomalia występuje, gdy nie uda się to i pewne dane nie będą zaktualizowane, np. ta sama osoba będzie widniała w bazie pod dwoma nazwiskami
