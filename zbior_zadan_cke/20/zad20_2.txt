@@ -1,0 +1,5 @@
+Zadanie 20.2
+prawda
+prawda
+fałsz
+fałsz
