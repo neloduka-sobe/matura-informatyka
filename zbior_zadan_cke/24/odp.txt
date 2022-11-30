@@ -1,0 +1,11 @@
+24.1
+6
+1
+3
+5
+
+24.2
+strategię "dziel i zwyciężaj"
+
+24.3
+log2 n
