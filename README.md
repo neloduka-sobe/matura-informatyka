@@ -15,7 +15,7 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 - [ ] zadanie 5
 - [ ] zadanie 6
 - [x] zadanie 7
-- [ ] zadanie 8
+- [x] zadanie 8
 - [x] zadanie 9
 - [ ] zadanie 10
 - [ ] zadanie 11
