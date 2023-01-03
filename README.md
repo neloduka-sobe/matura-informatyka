@@ -49,7 +49,7 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 - [x] zadanie 39
 - [x] zadanie 40
 - [x] zadanie 41
-- [ ] zadanie 42
+- [x] zadanie 42
 - [x] zadanie 43
 - [x] zadanie 44
 - [x] zadanie 45
