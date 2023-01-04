@@ -1,6 +1,6 @@
 # matura-informatyka
 [PL]
-Rozwiązania zadań maturalnych i opracowania algorytmów w pythonie. Nie są one najlepszej jakości - pisane na szybko, głównie po polsku. Proszę nie bierzcie tego za przykład.
+Rozwiązania zadań maturalnych i opracowania algorytmów w pythonie. Nie są one najlepszej jakości - pisane na szybko, głównie po polsku.
 
 [EN] 
 Sollutions to polish matura exam (SAT equivalent to some extent) and required algorithms example implementations written primarly in python. Ain't best quality, but it's an honest work. Variables and comments are in pol-english.
