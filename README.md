@@ -299,14 +299,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 6
 
 - [ ] Matura próbna grudzień 2022 (poziom rozszerzony)
-	* [ ] zadanie 1
+	* [x] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
-	* [ ] zadanie 6
-	* [ ] zadanie 7
-	* [ ] zadanie 8
+	* [x] zadanie 6
+	* [x] zadanie 7
+	* [x] zadanie 8
 
 
 ### Algorytmy
