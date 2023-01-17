@@ -1,0 +1,7 @@
+Zad 1.
+5030
+Zad 2.
+B 1001:1004
+Zad 3.
+Ilosc pass: 6
+Najdluzsza: 15 dla druz:B
