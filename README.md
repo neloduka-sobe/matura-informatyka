@@ -94,7 +94,7 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 - [x] zadanie 70
 	* python
 - [x] zadanie 71
-	* python **Na chama, ale jest i działa**
+	* python
 - [x] zadanie 72
 	* python
 - [x] zadanie 73
@@ -273,6 +273,15 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+- [ ] Arkusz pokazowy marzec 2022 (poziom rozszerzony)
+	* [ ] zadanie 1
+	* [ ] zadanie 2
+	* [ ] zadanie 3
+	* [ ] zadanie 4
+	* [ ] zadanie 5
+	* [ ] zadanie 6
+	* [ ] zadanie 7
+
 - [ ] Matura maj 2022 (poziom rozszerzony)
 	* [ ] zadanie 1
 	* [ ] zadanie 2
@@ -298,6 +307,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 6
 	* [ ] zadanie 7
 	* [ ] zadanie 8
+
 
 ### Algorytmy
 Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
