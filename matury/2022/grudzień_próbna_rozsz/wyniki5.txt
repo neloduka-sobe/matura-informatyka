@@ -1,0 +1,25 @@
+Zad 5.1
+Mateusz Tokarczyk 9
+
+Zad 5.2
+Marcin Bober 2240
+Mateusz Slomka 2220
+Anna Poplawska 2220
+
+Zad 5.3
+104
+107
+109
+110
+114
+117
+207
+215
+306
+310
+314
+402
+411
+415
+416
+418
