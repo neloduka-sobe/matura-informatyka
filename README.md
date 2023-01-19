@@ -300,7 +300,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 
 - [ ] Matura próbna grudzień 2022 (poziom rozszerzony)
 	* [x] zadanie 1
-	* [ ] zadanie 2
+	* [x] zadanie 2
 	* [x] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
