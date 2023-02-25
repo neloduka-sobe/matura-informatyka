@@ -322,6 +322,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] liczba doskonała
 	* [ ] rozkład na czynniki pierwsze
 	* [x] algorytm Euklidesa
+	* [x] rozszerzony algorytm Euklidesa
 	* [x] ciąg Fibonacciego
 	* [x] wydawanie reszty metodą zachłanną
 	* [x] lider w zbiorze
