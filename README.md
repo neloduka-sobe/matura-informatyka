@@ -337,6 +337,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] sortowanie przez scalanie
 	* [ ] sortowanie szybkie
 	* [ ] sortowanie kubełkowe
+	* [x] algorytm RLE
 - Algorytmy numeryczne
 	* [ ] obliczanie wartości pierwiastka kwadratowego
 	* [x] obliczanie wartości wielomianu za pomocą schematu Hornera
