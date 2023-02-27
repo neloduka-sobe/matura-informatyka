@@ -333,7 +333,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] wyszukiwanie najmniejszego i największego elementu w zbiorze
 	* [x] sortowanie bąbelkowe
 	* [x] sortowanie przez wybór
-	* [ ] sortowanie przez wstawianie
+	* [x] sortowanie przez wstawianie
 	* [ ] sortowanie przez scalanie
 	* [ ] sortowanie szybkie
 	* [ ] sortowanie kubełkowe
