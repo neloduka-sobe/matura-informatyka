@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 def rozklad(x):
-    pierw = x**0.5
+    pierw = int(x**0.5)
 
     if x == 1:
         return []
@@ -19,4 +19,4 @@ def rozklad(x):
     return ret
 
 if __name__ == "__main__":
-    print(rozklad(69))
+    print(rozklad(24))
