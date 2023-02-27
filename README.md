@@ -320,7 +320,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] reprezentacja liczb w systemie rzymskim
 	* [x] liczba pierwsza
 	* [x] liczba doskonała
-	* [ ] rozkład na czynniki pierwsze
+	* [x] rozkład na czynniki pierwsze
 	* [x] algorytm Euklidesa
 	* [x] rozszerzony algorytm Euklidesa
 	* [x] ciąg Fibonacciego

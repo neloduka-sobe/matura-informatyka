@@ -17,7 +17,3 @@ if __name__ == "__main__":
         print('######')
         print(bubble_sort(a))
         sleep(1)
-
-
-
-    
