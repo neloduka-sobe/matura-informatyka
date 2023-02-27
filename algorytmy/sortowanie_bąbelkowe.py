@@ -10,11 +10,10 @@ def bubble_sort(arr):
     return arr
 
 if __name__ == "__main__":
-    num=[i for i in range(100)]
     for i in range(100):
         a = []
         for i in range(10):
-            a.append(random.choice(num))
+            a.append(random.choice(range(100)))
         print('######')
         print(bubble_sort(a))
         sleep(1)
