@@ -344,7 +344,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] obliczanie wartości pierwiastka kwadratowego
 	* [x] obliczanie wartości wielomianu za pomocą schematu Hornera
 	* [ ] zastosowania schematu Hornera
-	* [ ] obliczanie pola obszarów zamkniętych metodą trapezów i prostokątów
+	* [x] obliczanie pola obszarów zamkniętych metodą trapezów i prostokątów
 - Algorytmy na tekstach
 	* [x] palindrom
 	* [ ] anagram
