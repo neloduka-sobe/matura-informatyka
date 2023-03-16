@@ -313,6 +313,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 
 - Algorytmy na liczbach całkowitych
+	* [x] rozkład liczby na cyfry
 	* [x] algorytm szybkiego potęgowania
 	* [x] sito Erastotenesa
 	* [ ] reprezentacja liczb w dowolnym systemie pozycyjnym
