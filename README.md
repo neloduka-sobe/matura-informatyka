@@ -316,7 +316,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] rozkład liczby na cyfry
 	* [x] algorytm szybkiego potęgowania
 	* [x] sito Erastotenesa
-	* [ ] reprezentacja liczb w dowolnym systemie pozycyjnym
+	* [x] reprezentacja liczb w dowolnym systemie pozycyjnym
 	* [x] reprezentacja liczb w silniowym systemie pozycyjnym
 	* [x] reprezentacja liczb w systemie rzymskim
 	* [x] liczba pierwsza
