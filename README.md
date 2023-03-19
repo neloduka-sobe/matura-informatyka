@@ -328,6 +328,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] wydawanie reszty metodą zachłanną
 	* [x] lider w zbiorze
 	* [x] reprezentacja ułamków w systemie dwójkowym
+	* [x] reprezentacja liczb ujemnych w systemie dwójkowym
 - Algoryty wyszukiwania i porządkowania
 	* [x] algorytm wieży Hanoi
 	* [x] wyszukiwanie binarne
