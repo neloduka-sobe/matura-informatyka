@@ -337,7 +337,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] sortowanie przez wybór
 	* [x] sortowanie przez wstawianie
 	* [x] sortowanie przez zliczanie
-	* [ ] sortowanie przez scalanie
+	* [x] sortowanie przez scalanie
 	* [ ] sortowanie szybkie
 	* [ ] sortowanie kubełkowe
 	* [x] algorytm RLE
