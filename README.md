@@ -348,7 +348,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] obliczanie pola obszarów zamkniętych metodą trapezów i prostokątów
 - Algorytmy na tekstach
 	* [x] palindrom
-	* [ ] anagram
+	* [x] anagram
 	* [ ] porządkowanie leksykograficzne
 	* [ ] wyszukiwanie wzorca w tekście
 	* [x] obliczanie wartości wyrażenia podanego w postaci odwrotnej notacji polskiej
