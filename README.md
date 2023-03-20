@@ -351,7 +351,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] anagram
 	* [ ] porządkowanie leksykograficzne
 	* [ ] wyszukiwanie wzorca w tekście
-	* [ ] obliczanie wartości wyrażenia podanego w postaci odwrotnej notacji polskiej
+	* [x] obliczanie wartości wyrażenia podanego w postaci odwrotnej notacji polskiej
 - Algorytmy kompresji i szyfrowania
 	* [x] szyfr Vigenere'a
 	* [x] szyfr kolumnowy
