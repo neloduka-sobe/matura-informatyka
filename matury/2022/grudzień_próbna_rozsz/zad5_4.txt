@@ -1,0 +1,3 @@
+select rodzaj, count(*)
+from uslugi_dodatkowe
+group by rodzaj;

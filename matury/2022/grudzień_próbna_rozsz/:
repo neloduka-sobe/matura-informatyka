@@ -1,0 +1,4 @@
+select imie, nazwisko, sum(cena_uslugi)
+from uslugi_dodatkowe, klienci, noclegi
+where noclegi.id_pobytu = uslugi_dodatkowe.id_pobytu and noclegi.nr_dowodu = klienci.nr_dowodu
+group by nr_dowodu, imie, nazwisko

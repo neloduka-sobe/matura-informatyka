@@ -303,7 +303,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [x] zadanie 2
 	* [x] zadanie 3
 	* [ ] zadanie 4
-	* [ ] zadanie 5
+	* [x] zadanie 5
 	* [x] zadanie 6
 	* [x] zadanie 7
 	* [x] zadanie 8
@@ -352,6 +352,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] porządkowanie leksykograficzne
 	* [ ] wyszukiwanie wzorca w tekście
 	* [x] obliczanie wartości wyrażenia podanego w postaci odwrotnej notacji polskiej
+	* [ ] znajdowanie miejsca zerowego metodą połowienia przedziałów
 - Algorytmy kompresji i szyfrowania
 	* [x] szyfr Vigenere'a
 	* [x] szyfr kolumnowy
