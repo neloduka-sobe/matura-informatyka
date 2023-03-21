@@ -25,11 +25,24 @@ okresy = [] # b)
 # 4.2
 retencja = {}
 
+# 4.3
+zbiornik = 5000
+pobrana_woda_suma = 0
+ilosc_pobran = 0
+
 for i in dane:
 	dzien_tyg = (dzien_tyg + 1) % 7
 	nr_dnia = i[0][:2]
 	nr_mies = i[0][3:5]
-
+	if zbiornik < 0:
+		ilosc_pobran += 1
+		pobrana_woda_suma += abs(zbiornik)
+		zbiornik = 0
+	zbiornik += i[1]
+	zbiornik -= 190
+	
+	if dzien_tyg == 2:
+		zbiornik -= 70
 
 	if i[1] == 0:
 		ilosc_dni_bez_opadow += 1
@@ -40,6 +53,7 @@ for i in dane:
 	if int(nr_mies) in range(4,10):
 		if ilosc_dni_bez_opadow % 5 == 0 and ilosc_dni_bez_opadow > 0:
 			ilosc_podlan += 1	
+			zbiornik -= 300 # 4.3
 
 		if i[1] == 0:
 			if dlugosc_okresu != 0:
@@ -66,6 +80,11 @@ print(f"a) początek: {wynik[0]}; koniec: {wynik[1]}; długosc: {wynik[2]}")
 print(f"b) {ilosc_podlan}")	
 
 # 4.2
-print("Zadanie 4.2")
+print("\nZadanie 4.2")
 for i in retencja.keys():
 	print(f"{i}\t{retencja[i]}")
+
+# 4.3
+print("\nZadanie 4.3")
+print(f"a) {ilosc_pobran}")
+print(f"b) {pobrana_woda_suma}")
