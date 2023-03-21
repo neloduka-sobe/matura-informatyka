@@ -12,24 +12,51 @@ with open('Dane/ekodom.txt', 'r') as f:
         i[1] = int(i[1])
         dane.append(i)
 
-print(dane)
+dzien_tyg = 4 # 0 - poniedziałek; 6 - niedziela
+ilosc_dni_bez_opadow = 0
 
-### 4.1
-dl_ciagu = 0
-dni = []
-dzien_tyg = 6
+# 4.1
+dlugosc_okresu = 0 # a)
+pocz = '' # a)
+koniec = '' # a)
+ilosc_podlan = 0 # b)
+okresy = [] # b)
 
 for i in dane:
+	dzien_tyg = (dzien_tyg + 1) % 7
+	nr_dnia = i[0][:2]
+	nr_mies = i[0][3:5]
 
-    # Aktualizowanie dnia tygodnia
-    dzien_tyg += 1
-    if dzien_tyg == 8:
-        dzien_tyg = 1
-    
-    if i[0] != 0:
-        if dl_ciagu == 0:
-            dl_ciagu = 1
-        else:
-            dl_ciagu += 1
-    elif i[0] == 0:
-            if dl
+	if i[1] == 0:
+		ilosc_dni_bez_opadow += 1
+	else:
+		ilosc_dni_bez_opadow = 0
+		
+	# 4.1
+	if int(nr_mies) in range(4,10):
+		if ilosc_dni_bez_opadow % 5 == 0 and ilosc_dni_bez_opadow > 0:
+			ilosc_podlan += 1	
+
+		if i[1] == 0:
+			if dlugosc_okresu != 0:
+				dlugosc_okresu += 1
+				koniec = i[0]
+			else:
+				pocz = i[0]
+				dlugosc_okresu = 1
+		else:
+			if dlugosc_okresu != 0:
+				okresy.append((pocz, koniec, dlugosc_okresu))
+				koniec = ''
+				pocz = ''
+				dlugosc_okresu = 0
+				
+
+# 4.1
+print("Zadanie 4.1")
+wynik = sorted(okresy, key=lambda x: x[2])[-1]
+print(f"a) początek: {wynik[0]}; koniec: {wynik[1]}; długosc: {wynik[2]}")
+print(f"b) {ilosc_podlan}")	
+
+# 4.2
+print("Zadanie 4.2")
