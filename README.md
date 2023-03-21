@@ -239,7 +239,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [x] zadanie 5
-	* [ ] zadanie 6
+	* [x] zadanie 6
 
 - [ ] Matura maj 2012 (poziom rozszerzony)
 	* [ ] zadanie 1

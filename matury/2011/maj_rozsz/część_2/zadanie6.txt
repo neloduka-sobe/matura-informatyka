@@ -1,0 +1,4 @@
+Zadanie 6
+a) 497
+b) binarnie: 1111101111110110; dziesiętnie: 64502
+c) ilość: 101; suma: 1001100111110111
