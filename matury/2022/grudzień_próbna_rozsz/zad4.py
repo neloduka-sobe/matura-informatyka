@@ -22,10 +22,14 @@ koniec = '' # a)
 ilosc_podlan = 0 # b)
 okresy = [] # b)
 
+# 4.2
+retencja = {}
+
 for i in dane:
 	dzien_tyg = (dzien_tyg + 1) % 7
 	nr_dnia = i[0][:2]
 	nr_mies = i[0][3:5]
+
 
 	if i[1] == 0:
 		ilosc_dni_bez_opadow += 1
@@ -51,6 +55,9 @@ for i in dane:
 				pocz = ''
 				dlugosc_okresu = 0
 				
+	# 4.2
+	retencja.setdefault(nr_mies, 0)
+	retencja[nr_mies] += i[1]
 
 # 4.1
 print("Zadanie 4.1")
@@ -60,3 +67,5 @@ print(f"b) {ilosc_podlan}")
 
 # 4.2
 print("Zadanie 4.2")
+for i in retencja.keys():
+	print(f"{i}\t{retencja[i]}")
