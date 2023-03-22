@@ -262,7 +262,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
-	* [ ] zadanie 5
+	* [x] zadanie 5
 	* [ ] zadanie 6
 
 - [ ] Matura maj 2015 (poziom rozszerzony, nowa matura)
