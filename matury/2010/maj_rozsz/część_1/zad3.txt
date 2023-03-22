@@ -1,0 +1,15 @@
+Zadanie 3.
+a)
+FFP
+
+b)
+FPF
+
+c)
+FPP
+
+d)
+PFF
+
+e)
+PPP
