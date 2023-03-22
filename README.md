@@ -273,6 +273,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+- [ ] Przykładowy arkusz 2015 (poziom rozszerzony, przykładowy arkusz)
+	* [ ] zadanie 1
+	* [ ] zadanie 2
+	* [ ] zadanie 3
+	* [ ] zadanie 4
+	* [ ] zadanie 5
+	* [ ] zadanie 6
+
 - [ ] Matura maj 2015 (poziom rozszerzony, nowa matura)
 	* [ ] zadanie 1
 	* [ ] zadanie 2
