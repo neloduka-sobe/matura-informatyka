@@ -409,6 +409,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+- [ ] Matura listopad 2020 (poziom rozszerzony, matura próbna Operon)
+	* [ ] zadanie 1
+	* [ ] zadanie 2
+	* [ ] zadanie 3
+	* [ ] zadanie 4
+	* [ ] zadanie 5
+	* [ ] zadanie 6
+
 - [ ] Arkusz pokazowy marzec 2022 (poziom rozszerzony)
 	* [ ] zadanie 1
 	* [ ] zadanie 2
