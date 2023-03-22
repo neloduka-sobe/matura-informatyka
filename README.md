@@ -205,7 +205,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [x] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
-	* [ ] zadanie 4
+	* [x] zadanie 4
 	* [x] zadanie 5
 	* [x] zadanie 6
 
