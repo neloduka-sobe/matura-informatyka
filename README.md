@@ -202,7 +202,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [x] zadanie 7
 
 - [ ] Matura maj 2007 (poziom rozszerzony)
-	* [ ] zadanie 1
+	* [x] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
