@@ -760,7 +760,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 ### Algorytmy
 Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 
+<details><summary>Rozwiń</summary>
+<p>
+
 - Algorytmy na liczbach całkowitych
+
+	<details><summary>Rozwiń</summary>
+	<p>
+
 	* [x] rozkład liczby na cyfry
 	* [x] algorytm szybkiego potęgowania
 	* [x] sito Erastotenesa
@@ -777,7 +784,15 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] lider w zbiorze
 	* [x] reprezentacja ułamków w systemie dwójkowym
 	* [x] reprezentacja liczb ujemnych w systemie dwójkowym
+
+	</details>
+	</p>
+
 - Algoryty wyszukiwania i porządkowania
+
+	<details><summary>Rozwiń</summary>
+	<p>
+
 	* [x] algorytm wieży Hanoi
 	* [x] wyszukiwanie binarne
 	* [x] wyszukiwanie najmniejszego i największego elementu w zbiorze
@@ -789,19 +804,43 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] sortowanie szybkie
 	* [ ] sortowanie kubełkowe
 	* [x] algorytm RLE
+
+	</details>
+	</p>
+
 - Algorytmy numeryczne
+
+	<details><summary>Rozwiń</summary>
+	<p>
+
 	* [ ] obliczanie wartości pierwiastka kwadratowego
 	* [x] obliczanie wartości wielomianu za pomocą schematu Hornera
 	* [ ] zastosowania schematu Hornera
 	* [x] obliczanie pola obszarów zamkniętych metodą trapezów i prostokątów
+
+	</details>
+	</p>
+
 - Algorytmy na tekstach
+
+	<details><summary>Rozwiń</summary>
+	<p>
+
 	* [x] palindrom
 	* [x] anagram
 	* [ ] porządkowanie leksykograficzne
 	* [ ] wyszukiwanie wzorca w tekście
 	* [x] obliczanie wartości wyrażenia podanego w postaci odwrotnej notacji polskiej
 	* [ ] znajdowanie miejsca zerowego metodą połowienia przedziałów
+
+	</details>
+	</p>
+
 - Algorytmy kompresji i szyfrowania
+
+	<details><summary>Rozwiń</summary>
+	<p>
+
 	* [x] szyfr Vigenere'a
 	* [x] szyfr kolumnowy
 	* [x] szyfr monoalfabetyczny
@@ -812,7 +851,15 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] RSA
 	* [x] RSA generowanie kluczy
 	* [x] Szyfr płotkowy
+
+	</details>
+	</p>
+
 - Algorytmy badające własności geometryczne
+
+	<details><summary>Rozwiń</summary>
+	<p>
+
 	* [x] sprawdzanie warunku trójkąta
 	* [ ] badanie położenia punktów względem prostej
 	* [ ] badanie przynależności punktu do odcinka
@@ -821,3 +868,9 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [ ] drzewo binarne
 	* [ ] dywan Sierpińskiego
 	* [ ] płatek Kocha
+
+	</details>
+	</p>
+
+</details>
+</p>
