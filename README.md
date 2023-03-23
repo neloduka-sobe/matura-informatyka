@@ -470,7 +470,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
-	* [ ] zadanie 4
+	* [x] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
