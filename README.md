@@ -190,6 +190,9 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 ### Arkusze maturalne
 Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 
+<details><summary>Rozwiń</summary>
+<p>
+
 - [x] Matura maj 2005 (poziom rozszerzony)
 
 	<details><summary>Zadania</summary>
@@ -751,6 +754,8 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	</details>
 	</p>
 
+</details>
+</p>
 
 ### Algorytmy
 Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
