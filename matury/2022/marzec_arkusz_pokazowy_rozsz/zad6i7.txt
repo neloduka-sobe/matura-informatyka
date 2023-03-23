@@ -1,0 +1,7 @@
+Zadanie 6.
+FPP
+
+Zadanie 7.
+login
+dane karty kredytowej
+hasło
