@@ -535,7 +535,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] szyfr monoalfabetyczny
 	* [ ] kody znaków o zmiennej długości
 	* [x] szyfr Cezara
-	* [ ] szyfr przestawieniowy
+	* [x] szyfr przestawieniowy
 	* [x] RSA
 	* [x] RSA generowanie kluczy
 	* [x] Szyfr płotkowy
