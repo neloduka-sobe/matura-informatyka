@@ -10,6 +10,7 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 
 <details><summary>Rozwiń</summary>
 <p>
+
 - [x] zadanie 1
 - [x] zadanie 2
 - [x] zadanie 3
@@ -182,6 +183,7 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 	* LibreOffice Base
 - [x] zadanie 112
 	* LibreOffice Base
+
 </p>
 </details>
 
