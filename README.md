@@ -191,12 +191,19 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 
 - [x] Matura maj 2005 (poziom rozszerzony)
+
+	<details><summary>Rozwiń</summary>
+	<p>
+
 	* [x] zadanie 1
 	* [x] zadanie 2
 	* [x] zadanie 3
 	* [x] zadanie 4
 	* [x] zadanie 5
 	* [x] zadanie 6
+
+	</details>
+	</p>
 
 - [x] Matura maj 2006 (poziom rozszerzony)
 	* [x] zadanie 1
