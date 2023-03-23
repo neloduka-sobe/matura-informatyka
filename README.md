@@ -8,6 +8,8 @@ Sollutions to polish matura exam (SAT equivalent to some extent) and required al
 ### Zbiór zadań CKE
 Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część pierwsza)](http://code.kopernik-leszno.pl/news/c-28/zbior-zadan) i [strony 2 Liceum Ogólnokształcącego w Lesznie (część druga)](http://code.kopernik-leszno.pl/news/c-29/zbior-zadan)
 
+<details><summary>Rozwiń</summary>
+<p>
 - [x] zadanie 1
 - [x] zadanie 2
 - [x] zadanie 3
@@ -180,6 +182,8 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 	* LibreOffice Base
 - [x] zadanie 112
 	* LibreOffice Base
+</p>
+</details>
 
 ### Arkusze maturalne
 Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
@@ -533,7 +537,8 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] szyfr Vigenere'a
 	* [x] szyfr kolumnowy
 	* [x] szyfr monoalfabetyczny
-	* [ ] kody znaków o zmiennej długości
+	* [ ] kodowanie Huffmana
+	* [ ] alfabet Morse'a
 	* [x] szyfr Cezara
 	* [x] szyfr przestawieniowy
 	* [x] RSA
