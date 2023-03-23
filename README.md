@@ -192,7 +192,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 
 - [x] Matura maj 2005 (poziom rozszerzony)
 
-	<details><summary>Rozwiń</summary>
+	<details><summary>Zadania</summary>
 	<p>
 
 	* [x] zadanie 1
@@ -206,6 +206,11 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	</p>
 
 - [x] Matura maj 2006 (poziom rozszerzony)
+
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [x] zadanie 1
 	* [x] zadanie 2
 	* [x] zadanie 3
@@ -214,7 +219,15 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [x] zadanie 6
 	* [x] zadanie 7
 
+	</details>
+	</p>
+
 - [ ] Matura maj 2007 (poziom rozszerzony)
+
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [x] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -222,15 +235,29 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [x] zadanie 5
 	* [x] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura maj 2008 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura maj 2009 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -238,7 +265,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura maj 2010 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [x] zadanie 3
@@ -246,7 +280,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura maj 2011 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -254,7 +295,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [x] zadanie 5
 	* [x] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura maj 2012 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -262,7 +310,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura maj 2013 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [x] zadanie 2 (unieważnione)
 	* [x] zadanie 3
@@ -270,7 +325,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [x] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura maj 2014 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -278,15 +340,29 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [x] zadanie 5
 	* [ ] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura grudzień 2014 (poziom rozszerzony, matura próbna)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Przykładowy arkusz 2015 (poziom rozszerzony, przykładowy arkusz)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -294,7 +370,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura maj 2015 (poziom rozszerzony, nowa matura)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -302,63 +385,119 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura maj 2015 (poziom rozszerzony, stara matura)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura czerwiec 2015 (poziom rozszerzony, matura dodatkowa)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura maj 2016 (poziom rozszerzony, stara matura)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura maj 2016 (poziom rozszerzony, nowa matura)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura czerwiec 2016 (poziom rozszerzony, matura dodatkowa)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura maj 2017 (poziom rozszerzony, stara matura)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura maj 2017 (poziom rozszerzony, nowa matura)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura czerwiec 2017 (poziom rozszerzony, matura dodatkowa)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -366,7 +505,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura maj 2018 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [x] zadanie 3
@@ -374,87 +520,164 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura czerwiec 2018 (poziom rozszerzony, matura dodatkowa)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura maj 2019 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura czerwiec 2019 (poziom rozszerzony, matura dodatkowa)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura kwiecień 2020 (poziom rozszerzony, matura próbna)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura czerwiec 2020 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura lipiec 2020 (poziom rozszerzony, matura dodatkowa)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura listopad 2020 (poziom rozszerzony, matura próbna Operon)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura marzec 2021 (poziom rozszerzony, matura próbna)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura maj 2021 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura czerwiec 2021 (poziom rozszerzony, matura dodatkowa)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
+
+	</details>
+	</p>
 
 - [ ] Matura listopad 2021 (poziom rozszerzony, matura próbna Operon) BRAK PLIKÓW!
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -462,7 +685,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Arkusz pokazowy marzec 2022 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -471,7 +701,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [x] zadanie 6
 	* [x] zadanie 7
 
+	</details>
+	</p>
+
 - [ ] Matura maj 2022 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -479,7 +716,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+	</details>
+	</p>
+
 - [ ] Matura dodatkowa czerwiec 2022 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [ ] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
@@ -487,7 +731,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 5
 	* [ ] zadanie 6
 
+	</details>
+	</p>
+
 - [x] Matura próbna grudzień 2022 (poziom rozszerzony)
+
+	<details><summary>Zadania</summary>
+	<p>
+
 	* [x] zadanie 1
 	* [x] zadanie 2
 	* [x] zadanie 3
@@ -496,6 +747,9 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [x] zadanie 6
 	* [x] zadanie 7
 	* [x] zadanie 8
+
+	</details>
+	</p>
 
 
 ### Algorytmy
