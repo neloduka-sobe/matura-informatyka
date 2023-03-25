@@ -845,7 +845,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] szyfr kolumnowy
 	* [x] szyfr monoalfabetyczny
 	* [ ] kodowanie Huffmana
-	* [ ] alfabet Morse'a
+	* [x] alfabet Morse'a
 	* [x] szyfr Cezara
 	* [x] szyfr przestawieniowy
 	* [x] RSA
