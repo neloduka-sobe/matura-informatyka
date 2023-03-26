@@ -1,0 +1,16 @@
+Zadanie 3
+a)
+33
+873
+
+b)
+PFPF
+
+c)
+FFPF
+
+d)
+PPFF
+
+e)
+PFFF
