@@ -225,14 +225,14 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	</details>
 	</p>
 
-- [ ] Matura maj 2007 (poziom rozszerzony)
+- [x] Matura maj 2007 (poziom rozszerzony)
 
 
 	<details><summary>Zadania</summary>
 	<p>
 
 	* [x] zadanie 1
-	* [ ] zadanie 2
+	* [x] zadanie 2
 	* [x] zadanie 3
 	* [x] zadanie 4
 	* [x] zadanie 5
