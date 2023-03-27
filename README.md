@@ -321,7 +321,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	<details><summary>Zadania</summary>
 	<p>
 
-	* [ ] zadanie 1
+	* [x] zadanie 1
 	* [x] zadanie 2 (unieważnione)
 	* [x] zadanie 3
 	* [ ] zadanie 4

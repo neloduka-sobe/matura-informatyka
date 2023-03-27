@@ -1,0 +1,30 @@
+Zadanie 1.
+
+a)
+0101110
+1010001
+
+b)
+1+2+4+32 = 39
+0110010 = -1*(2+16+32) = -50
+
+c)
+
+if d[1] == 1:
+	ujemna = True
+else:
+	ujemna = False
+
+ret = 0
+y = 1
+for i in range(d,1,-1):
+	if ujemna:
+		i = int(i) ^ 1
+
+	ret += int(i)*y
+	y *= 2
+
+print(ret * (-1 if ujemna else 1))
+		
+	
+	
