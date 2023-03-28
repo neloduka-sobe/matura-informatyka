@@ -383,7 +383,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 
 	* [ ] zadanie 1
 	* [x] zadanie 2
-	* [ ] zadanie 3
+	* [x] zadanie 3
 	* [x] zadanie 4
 	* [ ] zadanie 5
 	* [x] zadanie 6
