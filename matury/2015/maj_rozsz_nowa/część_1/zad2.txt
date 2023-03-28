@@ -1,0 +1,15 @@
+Zadanie 2.
+2.1
+FPPF
+
+2.2
+FPFF
+
+2.3
+PFFP
+
+2.4
+PFFF
+
+2.5
+FPPF
