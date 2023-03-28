@@ -1,0 +1,24 @@
+Zadanie 3
+a)
+PPFF
+
+b)
+FPPF
+
+c)
+FPPF
+
+d)
+PPFF
+
+e)
+PFPF
+
+f)
+PPFF
+
+g)
+FFPP
+
+h)
+PFPP
