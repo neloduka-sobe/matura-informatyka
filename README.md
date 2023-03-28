@@ -376,7 +376,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	</details>
 	</p>
 
-- [ ] Matura maj 2015 (poziom rozszerzony, nowa matura)
+- [x] Matura maj 2015 (poziom rozszerzony, nowa matura)
 
 	<details><summary>Zadania</summary>
 	<p>
@@ -385,7 +385,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [x] zadanie 2
 	* [x] zadanie 3
 	* [x] zadanie 4
-	* [ ] zadanie 5
+	* [x] zadanie 5
 	* [x] zadanie 6
 
 	</details>
