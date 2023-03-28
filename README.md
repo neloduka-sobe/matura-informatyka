@@ -316,7 +316,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	</details>
 	</p>
 
-- [ ] Matura maj 2013 (poziom rozszerzony)
+- [x] Matura maj 2013 (poziom rozszerzony)
 
 	<details><summary>Zadania</summary>
 	<p>
@@ -324,7 +324,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [x] zadanie 1
 	* [x] zadanie 2 (unieważnione)
 	* [x] zadanie 3
-	* [ ] zadanie 4
+	* [x] zadanie 4
 	* [x] zadanie 5
 	* [x] zadanie 6
 
