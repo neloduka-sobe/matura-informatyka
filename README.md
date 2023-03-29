@@ -178,7 +178,7 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 - [x] zadanie 109
 	* LibreOffice Base
 - [x] zadanie 110
-	* LibreOffice Base **wygląda dobrze, ale dla LibreOffice to za duże dane**
+	* LibreOffice Base
 - [x] zadanie 111
 	* LibreOffice Base
 - [x] zadanie 112
@@ -248,7 +248,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 
 	* [ ] zadanie 1
 	* [ ] zadanie 2
-	* [ ] zadanie 3
+	* [x] zadanie 3
 	* [ ] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
