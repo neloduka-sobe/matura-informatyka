@@ -671,7 +671,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	* [ ] zadanie 3
 	* [x] zadanie 4
 	* [ ] zadanie 5
-	* [ ] zadanie 6
+	* [x] zadanie 6
 
 	</details>
 	</p>
