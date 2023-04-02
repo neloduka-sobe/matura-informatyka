@@ -352,7 +352,7 @@ Zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	<p>
 
 	* [ ] zadanie 1
-	* [ ] zadanie 2
+	* [x] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
 	* [x] zadanie 5
