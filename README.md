@@ -82,7 +82,7 @@ Zadania pochodzą ze [strony 2 Liceum Ogólnokształcącego w Lesznie (część 
 	* python
 - [x] zadanie 64
 	* vimscript: 64.4
-	* python: **do refaktoryzacji**
+	* python
 - [x] zadanie 65
 	* python
 - [x] zadanie 66
