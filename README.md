@@ -802,7 +802,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 	* [x] sortowanie przez zliczanie
 	* [x] sortowanie przez scalanie
 	* [ ] sortowanie szybkie
-	* [ ] sortowanie kubełkowe
+	* [x] sortowanie kubełkowe
 	* [x] algorytm RLE
 
 	</details>
