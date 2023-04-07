@@ -1,0 +1,26 @@
+4.1
+miesiąc	ilość
+01	26
+02	22
+03	30
+04	27
+05	25
+06	31
+07	33
+08	19
+09	29
+10	32
+11	28
+12	29
+
+4.2
+miejsce	ilość
+duze miasto	97
+male miasto	20
+srednie miasto	59
+wies	24
+
+4.3
+Mężczyźni: 6261.0; Kobiety: 8961.5
+
+4.4 w pliku
