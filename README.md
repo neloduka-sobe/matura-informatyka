@@ -653,7 +653,7 @@ zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 
 	* [ ] zadanie 1
 	* [ ] zadanie 2
-	* [ ] zadanie 3
+	* [x] zadanie 3
 	* [x] zadanie 4
 	* [ ] zadanie 5
 	* [ ] zadanie 6
