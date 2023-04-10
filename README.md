@@ -862,7 +862,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 
 	* [x] sprawdzanie warunku trójkąta
 	* [ ] badanie położenia punktów względem prostej
-	* [ ] badanie przynależności punktu do odcinka
+	* [x] badanie przynależności punktu do odcinka
 	* [ ] przecinanie się odcinków
 	* [ ] przynależność punktu do obszaru
 	* [ ] drzewo binarne
