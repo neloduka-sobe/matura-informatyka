@@ -828,7 +828,7 @@ Lista ze strony [algorytm.edu.pl](https://algorytm.edu.pl)
 
 	* [x] palindrom
 	* [x] anagram
-	* [ ] porządkowanie leksykograficzne
+	* [x] porządkowanie leksykograficzne
 	* [x] wyszukiwanie wzorca w tekście
 	* [x] obliczanie wartości wyrażenia podanego w postaci odwrotnej notacji polskiej
 	* [ ] znajdowanie miejsca zerowego metodą połowienia przedziałów
