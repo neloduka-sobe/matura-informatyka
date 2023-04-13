@@ -1,0 +1,16 @@
+Zadanie 1.
+
+a)
+FFPF
+
+b)
+FPPF
+
+c)
+FPPP
+
+d)
+PFFP
+
+e)
+FPFF
