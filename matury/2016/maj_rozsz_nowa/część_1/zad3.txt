@@ -1,0 +1,13 @@
+Zadanie 3.
+
+3.1
+FFPF
+
+3.2
+FPPF
+
+3.3
+FPFP
+
+3.4
+PPFF
