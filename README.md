@@ -426,7 +426,7 @@ zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	<details><summary>zadania</summary>
 	<p>
 
-	* [ ] zadanie 1
+	* [x] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [ ] zadanie 4
