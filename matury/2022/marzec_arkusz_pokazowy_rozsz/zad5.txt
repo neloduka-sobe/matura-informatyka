@@ -1,0 +1,9 @@
+5.4
+select Typ_dzialalnosci, count(*) as ile
+from Armator
+group by Typ_dzialalnosci;
+
+5.5
+select distinct Nazwa_statku
+from Armator, Statki, Przybycia
+where Armator = 'XYZ' and Przybycia.Id_armatora = Armator.Id_armatora and Statki.Nr_IMO = Przybycia.Nr_IMO
