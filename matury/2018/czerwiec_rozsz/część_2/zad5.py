@@ -67,3 +67,37 @@ for i in dane:
 
 print("5.4")
 print(f"przedział 1.: {p1}; przedział 2.: {p2}")
+
+# 5.5
+with open('5_5.csv','w') as f:
+	for i in dane:
+		mies = int(i[0][5:7])
+		dzien = int(i[0][-2:])
+		linia = []
+		linia.append('2017'+i[0][4:])
+		linia.append(i[1])
+		
+		for ind,y in enumerate(i):
+			if ind not in (2,3,10,9):
+				continue
+
+			w = float(y.replace(',','.'))
+			ad = w
+
+			# Wniosek I
+			if dzien in range(5,11) and ind-1 in (1,2,9):
+				ad -= 1.2
+
+			# Wniosek II
+			if mies in (7,8) and ind-1 == 8:
+				ad = round(ad*1.07, 2)
+		
+			# Wniosek III
+			# Zakomentować, aby dostać bez III wniosku
+			#'''
+			if mies == 5:
+				ad += 0.9
+			#'''
+			ad = round(ad,2)
+			linia.append(str(ad))
+		f.write(f"{';'.join(linia)}\n")
