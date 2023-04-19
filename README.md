@@ -696,7 +696,7 @@ zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	<details><summary>Zadania</summary>
 	<p>
 
-	* [ ] zadanie 1
+	* [x] zadanie 1
 	* [ ] zadanie 2
 	* [ ] zadanie 3
 	* [x] zadanie 4
