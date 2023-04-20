@@ -451,13 +451,13 @@ zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	</details>
 	</p>
 
-- [ ] matura czerwiec 2016 (poziom rozszerzony, matura dodatkowa)
+- [x] matura czerwiec 2016 (poziom rozszerzony, matura dodatkowa)
 
 	<details><summary>zadania</summary>
 	<p>
 
 	* [x] zadanie 1
-	* [ ] zadanie 2
+	* [x] zadanie 2
 	* [x] zadanie 3
 	* [x] zadanie 4
 	* [x] zadanie 5
