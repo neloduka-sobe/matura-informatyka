@@ -241,13 +241,13 @@ zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	</details>
 	</p>
 
-- [ ] matura maj 2008 (poziom rozszerzony)
+- [x] matura maj 2008 (poziom rozszerzony)
 
 	<details><summary>zadania</summary>
 	<p>
 
 	* [x] zadanie 1
-	* [ ] zadanie 2
+	* [x] zadanie 2
 	* [x] zadanie 3
 	* [x] zadanie 4
 	* [x] zadanie 5
