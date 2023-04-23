@@ -496,12 +496,12 @@ zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	</details>
 	</p>
 
-- [ ] matura czerwiec 2017 (poziom rozszerzony, matura dodatkowa)
+- [x] matura czerwiec 2017 (poziom rozszerzony, matura dodatkowa)
 
 	<details><summary>zadania</summary>
 	<p>
 
-	* [ ] zadanie 1
+	* [x] zadanie 1
 	* [x] zadanie 2
 	* [x] zadanie 3
 	* [x] zadanie 4
