@@ -361,14 +361,14 @@ zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	</details>
 	</p>
 
-- [ ] przykładowy arkusz 2015 (poziom rozszerzony, przykładowy arkusz)
+- [x] przykładowy arkusz 2015 (poziom rozszerzony, przykładowy arkusz)
 
 	<details><summary>zadania</summary>
 	<p>
 
 	* [x] zadanie 1
 	* [x] zadanie 2
-	* [ ] zadanie 3
+	* [x] zadanie 3
 	* [x] zadanie 4
 	* [x] zadanie 5
 	* [x] zadanie 6
