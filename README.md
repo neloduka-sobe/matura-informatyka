@@ -286,12 +286,12 @@ zadania pochodzą ze [strony arkusze.pl](http://arkusze.pl)
 	</details>
 	</p>
 
-- [ ] matura maj 2011 (poziom rozszerzony)
+- [x] matura maj 2011 (poziom rozszerzony)
 
 	<details><summary>zadania</summary>
 	<p>
 
-	* [ ] zadanie 1
+	* [x] zadanie 1
 	* [x] zadanie 2
 	* [x] zadanie 3
 	* [x] zadanie 4
