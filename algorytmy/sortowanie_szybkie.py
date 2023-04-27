@@ -31,9 +31,7 @@ def quick2(arr,left,right):
 			l += 1
 		if l <= r:
 			arr[l], arr[r] = arr[r], arr[l]
-	print(arr)
 	arr[left], arr[r] = arr[r], arr[left]
-	print(arr)
 	quick2(arr, left, r-1)
 	quick2(arr, r+1, right)
 
