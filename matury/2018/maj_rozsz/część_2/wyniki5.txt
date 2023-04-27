@@ -1,0 +1,6 @@
+Zadanie 5.
+5.1: 2015
+5.2: od 2015-03-17 do 2015-05-10; dlugosc: 55
+5.3: wykres w pliku
+5.4:a) 2015-04-19 b) 188 c) 1399242
+W zad 5.4, aby uzyskać podpunkt c należy zakomentować wyznaczone linie w kodzie
